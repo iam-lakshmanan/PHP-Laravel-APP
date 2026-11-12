@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap");.overlay,.shadow-effect{ padding:20px;}.Upcoming-events{ font-size:32px;}.event-list h6{ color:#f6f3e9; margin-bottom:25px;}.upcoming-event-date p{ white-space:nowrap;}.event-free-btn .event-btn,a.event-btn{ display:block;}a.event-btn{ max-width:150px;}.event-free-btn .event-btn{ max-width:50px;}.company-news-link .rss-news-img{ max-width:20px;}.company-news-menu .news-more-img{ max-width:80px;}.company-news-menu .news-img{ height:10%; max-width:100px;}.company-news-content span,.company-news-content p{ line-height:24px;}img.news-more-img{ max-width:97px;}.logos-slider .slide img{ width:100px; height:100px; max-width:130px; animation:scroll 60s linear infinite;}.logos-slider{ max-width:530px; margin-top:34px; gap:3em;}.industry-text-content{ line-height:1.6;}section.bottom-menu.mt-5.justify-content-between{ background-color:rgb(246 243 233);}.move-down{ margin-top:0.5rem; font-size:14px; color:#333;}.bottom-menu-img-logo{ max-width:295px;}.bottom-logo-text{ margin-left:5rem; margin-right:5rem;}.carousel-button-left{ left:30px;}.carousel-button-right{ right:56px;}.company-news-link{ background-color:#4db8ff;}.working-with-us-menu li a{ margin-bottom:2px;}.col-8.testimonial-short.mb-3 p{ right:-20%;}img.location-btn{ max-width:200px;}.upcoming-event-wrap-register{white-space: nowrap;}
+.industry-awards-accreditations-section {
+    display: flex;
+    gap: 15px;
+}
+
+
+
+
+
+.industry-awards-accreditations-section a:hover {
+    color: white;
+    opacity: 0.9;
+}
+

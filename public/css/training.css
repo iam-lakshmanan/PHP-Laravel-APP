@@ -1,0 +1,90 @@
+:root {
+    --border: 1px solid #ddd;
+}
+a.exampass-credits-link,
+h5.intermediate-course-title {
+    color: #3d90c7;
+}
+.course-header-item,
+p.sub-title-course {
+    font-size: 12px;
+}
+.row.course-body.container-fluid.mt-2 {
+    line-height: 2.2rem;
+}
+section#courses-level-container {
+    padding-bottom: 33px;
+}
+img.training-courses-banner.other-course {
+    max-width: 60px;
+}
+h4.training-category-title,
+h4.training-category-title a {
+    font-size: 18px;
+}
+img.training-courses-banner {
+    transition: transform 0.6s ease;
+    transform-origin: center center;
+    max-width: 75px;
+}
+img.training-courses-banner.other-courses-banner {
+    max-width: 65px;
+}
+img.training-courses-banner.pm-banner {
+    max-width: 80px;
+}
+/* img.training-courses-button {
+    max-width: 164px;
+    height: 44px;
+} */
+img.training-courses-banner:hover {
+    transform: rotateY(180deg);
+}
+h4.exampass-credits-title,
+h4.earn-credits-title,
+h4.training-credits-title {
+    font-size: 18px;
+}
+h4.exampass-credits-title {
+    color: #0099ff;
+}
+section.courses-level-container {
+    padding-bottom: 33px;
+}
+span.testimonial-content.list-upcoming p {
+    color: #fff;
+    right: 0px;
+    padding: 0px;
+}
+img.training-courses-banner.pm-course {
+    max-width: 74px;
+}
+.course-header-item.col-7.name-class {
+    left: 6px;
+}
+.course-type-banner-image {
+    height: 741px;
+}
+.overlay.course-type-text-container {
+    border: 1px solid #645b5b;
+    transform: translate(-50%, -13%);
+    max-width: 958px;
+    height: auto;
+    background-color: #ffffffe6;
+    align-items: flex-start;
+    padding: 20px;
+    backdrop-filter: blur(-34px);
+    z-index: 5;
+    align-items: center;
+    top: 50%;
+    left: 20%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+.training-landing-title h3 {
+    margin-top: 11px;
+}

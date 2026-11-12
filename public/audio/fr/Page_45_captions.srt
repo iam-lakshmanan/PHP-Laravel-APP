@@ -1,0 +1,48 @@
+1
+00:00:00,000 --> 00:00:05,680
+Nous tirons souvent des conclusions sur ce que pense ou ressent une personne à partir de son langage non-verbal
+
+2
+00:00:05,680 --> 00:00:08,240
+ou de ce qu'elle suggère sans le dire explicitement.
+
+3
+00:00:09,440 --> 00:00:13,400
+Il arrive ainsi que l'on quitte une réunion persuadée d'avoir compris son point de vue
+
+4
+00:00:13,400 --> 00:00:16,960
+pour se rendre compte par la suite que l'on a mal interprété les signaux.
+
+5
+00:00:17,680 --> 00:00:23,320
+Tester ces interprétations permet de vérifier la justesse de ses perceptions en formulant une hypothèse,
+
+6
+00:00:23,320 --> 00:00:25,480
+puis en demandant à l'autre si elle est correcte.
+
+7
+00:00:25,920 --> 00:00:27,320
+Voici quelques exemples.
+
+8
+00:00:27,840 --> 00:00:33,040
+Je me demande si vous n'êtes pas un peu préoccupé à l'idée d'empiéter sur les plates bandes de votre équipe.
+
+9
+00:00:34,040 --> 00:00:36,240
+Vous semblez hésiter à vous engager.
+
+10
+00:00:37,120 --> 00:00:41,360
+J'ai remarqué que vous aviez réagi positivement à ma proposition tout à l'heure,
+
+11
+00:00:42,040 --> 00:00:44,400
+puis nous avons pris une autre direction.
+
+12
+00:00:44,840 --> 00:00:47,240
+Est-ce que vous souhaiteriez en reparler ?
+

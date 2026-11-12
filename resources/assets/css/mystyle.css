@@ -1,0 +1,160 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap");:root{ --main-color:#004682; --white-color:#fff; --hex-color:#0099ff; --border:1px solid #ddd; --primary-color:#00528a; --light-border:1px solid #f1f1f1;}*{ box-sizing:border-box; margin:0; padding:0;}body{ overflow-x:hidden;}.top-header{ padding:0 45px; height:100%; margin:auto;}.top-menu-bar{ left:35px;}.message-bar p{ margin-bottom:22px; padding:10px; font-family:"Acumin Pro","Acumin Variable Concept SemiCondensed ExtraLight",sans-serif;}.search-bar{ border:1px solid #807d7d;}.col-md-10.d-flex.home-search-box img.img-fluid{ max-height:38px; max-width:38px;}.mail-logo span>i,.phone-number span>i{ margin:0 12px;}.overlay{ left:0; height:100%; background-color:rgba(0,0,0,0.5);}.award-list .each-awards{ margin-bottom:12px;}.container-nav{ max-width:1440px; margin:0 auto;}button.all-events-list{ background-color:#7a7a7a; border:none; padding:9px;}.content.text-right.text-justify-custom.mt-3{ top:0%;}h3,.h3{ font-size:1.3rem; font-weight:400;}.content.text-right p{ margin-top:0; margin-bottom:1rem;}.shadow-effect{ border-radius:14px; box-shadow:0 19px 38px rgba(0,0,0,0.1),0 15px 12px rgba(0,0,0,0);}.award-img-one img,.award-img-two img{ width:200px; height:200px;}.award-list .award-lists{ list-style-type:disclosure-closed; line-height:32px;}.award-list{ margin:auto 210px;}ul{ margin:0; padding:0; list-style:none;}.widget-title{ text-transform:capitalize;}.main-content{ top:50%; left:50%; width:51%; transform:translate(-50%,-50%); margin:0 auto;}.filter-courses-container{ width:92%;}.card{ padding:1px; gap:12px; min-height:122px; padding:18px;}.col-3.flex.justify-content-end.d-flex.row.align-items-center{ max-width:373px; color:#8696a1;}.col-md-10.d-flex.home-search-box{ padding:0px; border:1px solid #000; max-height:50px; height:100%;}.course-message-bar{ height:50px;}.col-3.search-bar-menu-list{ justify-content:space-between;}.events{ color:#f6f3e9;}.col-4.event-img{ left:-3%;}.footer-section{ background-color:#8696a1;}.footer-section .footer{ padding:20px;}.slider{ margin-top:70px; padding:8em 2em;}.scroll-banner .scroll-content h6{ font-size:30px; color:var(--hex-color);}.scroll-banner .customers-list{ min-height:400px; padding:180px;}.carousel-item{ min-height:400px;}.scroll-content{ margin-right:20px;}.scroll-menu img{ max-height:100px;}.carousel-control-prev-icon,.carousel-control-next-icon{ background-color:black; color:#8696a1;}.container.video-banner{ max-width:800px;}img.generic-banner-image,.video-height{ contain:strict;}.form-control:focus{ border-color:none !important; box-shadow:none; -webkit-box-shadow:none; outline:none;}.dropdown-menu .dropdown-menu{ left:100%; margin-top:-6px;}img.img-fluid.search-icon.search-courses,img.img-fluid.search-icon.page-search-courses{ top:11%; right:5%; max-width:50px;}.testimonial-content .move-down{ padding-top:10px;}.filter-courses-container li.list-unstyled.course-item{ padding:3px;}.content center a{ background:#494848; padding:10px;}.row-12.text-left h4{ font-size:xx-large;}.upcoming-course-link .container-fluid .col-7{ padding:25px;}.video-height{ height:500px;}.video-banner{ height:100%; min-height:500px; max-height:500px !important;}h4.search-filter-course-title.mt-5{ text-transform:capitalize;}.search-filter-course h2,.industry-list h6{ font-size:24px;}section.contact-form{ margin-top:112px;}.industry-slide img{ height:100%; max-width:93px; max-height:89px; padding-top:10px;}.slider-arrow{ top:50%; transform:translateY(-50%); border:none; font-size:2em; z-index:10;}.mail-address{ line-height:28px;}.youtube-icon-img{ width:26px;}.menu-no-pointer{ cursor:auto;}.video-slider-new{ transition:transform 0.5s ease-in-out;}.video-slide-new{ min-width:100%; box-sizing:border-box;}.search-input-bar{ border-color:#3e393996 !important;}.page-search-courses{ background-color:transparent !important;}.carousel-button{ top:50%; transform:translateY(-50%); color:#7c8787; font-size:30px; transition:0.5s; z-index:1;}.filter-page-courses-container{ top:100%; z-index:10;}#filter-courses-list{ background:white; border:var(--border); box-shadow:0 4px 8px rgba(0,0,0,0.1);}.upcoming-course-link-fulltable{ margin-top:-48px;}.dropdown-submenu .dropdown-menu{ left:100%; margin-top:-1px;}.logo_nav{ width:50%; mix-blend-mode:multiply;}.menu-item::after{ content:inherit !important;}.training-search-box{ width:100%; border:1px solid #898484cc; padding:2px; max-height:40px; height:100%; left:41%; transform:translateX(-50%); max-width:345px; top:10px;}.nav_space{ margin:0% 7%;}.carousel-button{ top:50%; transform:translateY(-50%); color:#7c8787; font-size:30px; transition:0.5s; z-index:1;}.testimonial-list{ margin:0; padding:0; list-style:none; transition:transform 0.5s ease;}.testimonial-list li{ flex:0 0 100%; box-sizing:border-box;}.col-6.top-menu-bar.justify-content-center.align-items-center.m-auto{ left:5%; padding-left:85px;}.course-message-bar,.message-bar{ background-color:var(--hex-color);}.social-icons.justify-content-around.d-flex{ margin-top:5%; right:50%;}.col-3.flex.justify-content-end.d-flex.row.align-items-center.page-nav{ max-width:373px; color:#8696a1;}.footer-section .footer{ padding:50px 0;}.industry-list h6,.company-news-list{ margin-bottom:20px;}.testimonial-content p{ font-style:italic !important;}.social-connect img{ width:15px;}.social-connect img:nth-child(3){ width:15px !important; height:20px;}.upcoming-course-link-table th,.upcoming-course-link-table td{ vertical-align:top;}a.link-light.upcoming-courses-register{ font-size:15px; color:#ed872b !important; text-decoration-color:#ed872b !important;}a.link-light.upcoming-courses-register{ float:right;}.upcoming-courses-link-img{ transform:scaleX(-1); transform-origin:center;}.dexp_list_02{ list-style-type:none; padding-left:0;}.dexp_list_02 li{ padding-left:20px; margin-bottom:10px;}.dexp_list_02 li::before{ content:"•";}#our-consultants-section .nav-pills .nav-link.active,.nav-pills .show>.nav-link{ background-color:transparent; color:#ed872b !important; text-decoration:underline;}.consultant-profile h5 a{ color:#0099ff;}p.consultant-credentials{ color:#75cf33;}p.consultant-position.mb-2.px-4.me-2{ margin-top:-7px;}#our-consultants-section .nav-pills .nav-link{ padding:5px 7px; color:black; text-decoration:underline;}.consultants-courses-content h2,.consultants-courses-content h3{ font-size:19px; color:#0099ff; letter-spacing:1.5px;}img.individualcourse-banner-image{ height:280px;}.company-news-body-summary{ color:#333;}.card-header h4.mb-0{ color:gray; margin-left:-70px;}.card-header{ margin-left:6%;}
+img.change-management-ato-img {
+    max-width: 117px;
+}
+/* filter show course scrollable */
+.filter-page-courses-container,
+.filter-courses-container {
+    max-height: 200px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+.generic-content .table-border,
+.generic-content .table-border td {
+    border: hidden;
+}
+.corp-today-award-img{
+    width: 300px;
+}
+.consulting-landing-section {
+    background-color: #e5f3fc;
+}
+.consulting-landing-about-title {
+    color: #00528a !important;
+}
+.consulting-landing-section p{
+    color: black !important;
+}
+.transforming-operation-section{
+    background-color: #f6f3e9;
+}
+.transforming-operation-img{
+    width: 250px;
+}
+.consulting-landing-page-section h6{
+    font-size: 22px !important;
+}
+
+.consulting-industry-recog-title{
+color: #ed872b !important;
+}
+
+.industry-awards-accreditations-section .industry-recog-awards-info {
+    background-color: #ed872b;
+    color: white;
+    border: 1px solid #ed872b;
+}
+.industry-awards-accreditations-section {
+    display: flex;
+    gap: 15px;
+}
+.industry-awards-accreditations-section a img{
+    height: 38px;
+}
+
+.transforming-operation-section table {
+    border: hidden;
+}
+
+.consulting-landing-page-section h2,
+.consulting-landing-page-section h3 {
+    font-size: 19px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+}
+.footer-content{
+    font-size: 14px;
+}
+.message-text{
+    font-size: 19px;
+}
+.upcoming-public-courses-title
+{
+    font-weight: 600;
+}
+.industry-accr-img{
+    max-width: 300px;
+}
+.header-page-menu{
+    width: 299px !important;
+}
+.transforming-operation-section {
+    background-color: #f6f3e9;
+}
+.transforming-operation-img {
+    width: 250px;
+}
+
+section.consulting-landing-page-section p,
+.transforming-operation-title {
+    color: #000 !important;
+}
+.consulting-services-transforming-table {
+    background-color: #f6f3e9;
+}
+.testimonial-track {
+    display: flex;
+    overflow: hidden;
+    width: 100%;
+    position: relative;
+}
+
+.testimonial-items {
+    display: flex;
+    padding: 0;
+    margin: 0;
+    transition: transform 0.5s ease-in-out;
+}
+
+.testimonial-items li {
+    min-width: 100%;
+    list-style: none;
+}
+
+.testimonial-slider h6 {
+    color: #009bfa;
+    font-weight: 600;
+    font-family: "Acumin Variable Concept SemiCondensed", sans-serif;
+    font-size: 22px;
+}
+
+.testimonial-content h6 {
+    font-weight: 600;
+    font-family: "Acumin Variable Concept SemiCondensed", sans-serif;
+}
+
+.slider-control {
+    top: 50%;
+    transform: translateY(-50%);
+    cursor: pointer;
+    z-index: 10;
+    font-size: 24px;
+}
+
+.slider-control-left {
+    left: 10px;
+}
+
+.slider-control-right {
+    right: 10px;
+}
+
+.testimonial-content .row,
+.testimonial-text {
+    font-weight: 600;
+    font-family: "Acumin Variable Concept SemiCondensed", sans-serif;
+}
+.generic-content ul.dexp_list.dexp_list_11 li ul.dexp_list.dexp_list_02 li::before,
+ul.dexp_list.dexp_list_02 li ul.dexp_list.dexp_list_11 li::before {
+    content: none !important;
+}
+span.delivery-methodologies-box table.table-border
+{
+background-color: #eeeeee;
+}
+
+.pmi-pdu-breakdown-content > div > p {
+    width: 300px;
+}
+
+

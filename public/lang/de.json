@@ -1,0 +1,654 @@
+{
+    "exercising_influence_footer_hint": "Diese App ist für die Verwendung während unseres Kurses Exercising Influence®: Building Relationships and Getting Results sowie als Unterstützung nach dem Kurs vorgesehen. Wenn Sie mehr über unseren Kurs erfahren möchten, besuchen Sie bitte",
+    "exercising_influence_link_text": "www.exercisinginfluence.com",
+    "influence_tactics_behaviors": "Einfluss-Taktiken und Verhaltensweisen",
+    "influence_framework": "Einflussrahmen",
+    "framework_screen_message": "Der Einflussrahmen bietet die Grundlage für die Planung Ihres Ansatzes in jeder Einflusssituation. Durch die Berücksichtigung jedes Aspekts des Rahmens sind Sie vorbereitet, einen Plan zur Erreichung von Erfolg zu entwickeln.",
+    "influence_objective": "Einfluss-Ziel",
+    "behavior_practice": "Verhaltensübung",
+    "access_training": "Zugriff auf Schulung",
+    "hello": "Hallo",
+    "enter": "Eingeben",
+    "welcome_message": "Willkommen zur Übung\nEinfluss",
+    "exercising_influence": "Einfluss ausüben",
+    "influence_tactics": "Einfluss-Taktiken",
+    "expressive": "Expressiv",
+    "sends_a_message_to_other": "Sendet eine Nachricht an andere",
+    "Receptive": "Rezeptiv",
+    "Receptive_message": "Zieht Informationen, Ideen oder Maßnahmen von anderen",
+    "disengage": "Disengagieren",
+    "disengage_message": "Bleiben Sie für einen anderen Tag einflussreich. Disengagieren ist ein Beispiel für indirekten Einfluss",
+    "results": "Ergebnisse",
+    "relationship": "Beziehung",
+    "context": "Kontext",
+    "approach": "Ansatz",
+    "influence_object_criteria": "Einfluss-Zielkriterien",
+    "influence_object_criteria_message": "Einflussziele sind kurzfristig. Sie sind darauf ausgelegt, Ihnen zu ermöglichen, Ihren Fortschritt in Echtzeit zu messen, damit Sie Ihren Ansatz nach Bedarf ändern können. Dieser Satz von Kriterien (unten) hilft Ihnen, ein klares und kraftvolles Einflussziel festzulegen.",
+    "flexible": "Flexibel",
+    "observable": "Beobachtbar",
+    "courageous": "Mutig",
+    "useful": "Nützlich",
+    "supportive": "Unterstützend",
+    "developing_message": "Die Entwicklung eines klaren und überzeugenden Einflussziel ermöglicht es Ihnen, sich auf das Ergebnis zu konzentrieren und zu verfolgen, ob Sie näher oder weiter weg davon entfernt sind; wenn Sie sich nicht auf Ihr Ziel hinbewegen, können Sie sich dafür entscheiden, einen Schritt zurückzutreten (vorübergehende Disengagierung) oder einen anderen Ansatz zu verfolgen.",
+    "behaviour_practice": "Verhaltensübung",
+    "select_behaviour": "Verhalten auswählen",
+    "behaviour_hint": "Klicken und wählen Sie das Verhalten",
+    "switch_to_receptive": "Zu Rezeptiv wechseln",
+    "switch_to_expressive": "Zu Expressiv wechseln",
+    "behaviour_message": "Wählen Sie ein expressives Verhalten aus der Dropdown-Liste, um Satzeröffnungen anzuzeigen und zwischen expressiven und rezeptiven Verhaltensweisen zu wechseln.",
+    "ask_open_ended_questions": "Offene Fragen stellen",
+    "ask_open_ended_example_screen_title": "Befragen Sie die andere Partei auf eine Weise, die keine richtige Antwort impliziert.",
+    "receptive_ask_open_ended_example_screen_message_list": [
+        "Welche Bedenken haben Sie bezüglich der Einbeziehung von Janet?",
+        "Wie könnten wir die wichtigsten Informationen rechtzeitig zum Treffen an die Menschen bringen?"
+    ],
+    "the_questions_are": "Die Fragen sind:",
+    "receptive_ask_open_ended_criteria_screen_message_list": [
+        "Formuliert so, dass sie nicht mit einem Wort beantwortet werden können (ja, nein, vielleicht, etc.)",
+        "Neutral formuliert, implizieren nicht eine richtige oder falsche Antwort, sondern geben eher eine vereinfachte oder ausweichende Antwort",
+        "Entworfen, um einen möglichen Weg zu Ihrem Einflussziel zu öffnen"
+    ],
+    "draw_out": "Herausziehen",
+    "check_understanding": "Verständnis überprüfen",
+    "test_implications": "Auswirkungen testen",
+    "identify_with_other": "Mit anderen identifizieren",
+    "disclose": "Offenbaren",
+    "clarify_issue": "Problem klären",
+    "pose_challenging_questions": "Herausfordernde Fragen stellen",
+    "suggest": "Vorschlagen",
+    "express_needs": "Bedürfnisse ausdrücken",
+    "offer_reasons": "Gründe anbieten",
+    "refer_to_goals_and_benefits": "Auf Ziele und Vorteile verweisen",
+    "offer_incentives": "Anreize anbieten",
+    "describe_consequences": "Konsequenzen beschreiben",
+    "envision": "Sich vorstellen",
+    "encourage": "Ermutigen",
+    "tell": "Sagen",
+    "tell_message": "Kommunizieren Sie die gewünschte Maßnahme",
+    "tell_message_list": [
+        "Baut Beziehungen durch Klarheit der Absicht auf",
+        "Erzielt Ergebnisse durch direkte Maßnahmen"
+    ],
+    "behaviours": "Verhaltensweisen",
+    "sell": "Verkaufen",
+    "sell_message": "Überzeugen Sie den anderen, sich zum Handeln zu verpflichten",
+    "sell_message_list": [
+        "Baut Beziehungen durch Wissen auf",
+        "Erzielt Ergebnisse durch Überzeugung"
+    ],
+    "negotiate": "Verhandeln",
+    "negotiate_message": "Geben Sie anderen ein begründetes Interesse an der Maßnahme",
+    "negotiate_message_list": [
+        "Baut Beziehungen durch Fairness auf",
+        "Erzielt Ergebnisse durch Vereinbarung"
+    ],
+    "enlist": "Anwerben",
+    "enlist_message": "Schaffen Sie Begeisterung und Ausrichtung",
+    "enlist_message_list": [
+        "Baut Beziehungen durch Vertrauen auf",
+        "Erzielt Ergebnisse durch Führung"
+    ],
+    "inquire": "NACHFRAGEN",
+    "inquire_message": "Erhalten Sie Informationen oder Beteiligung; lenken Sie das Denken des anderen",
+    "receptive_inquire_screen_message_list": [
+        "Baut Beziehungen durch Beteiligung auf",
+        "Erzielt Ergebnisse durch Verpflichtung"
+    ],
+    "listen": "ZUHÖREN",
+    "listen_message": "Erfahren Sie mehr über, verstärken Sie oder erweitern Sie das Denken des anderen",
+    "listen_message_list": [
+        "Baut Beziehungen durch Respekt auf",
+        "Erzielt Ergebnisse durch Informationen"
+    ],
+    "attune": "ABSTIMMEN",
+    "attune_message": "Vertrauen aufbauen oder Offenheit erhöhen",
+    "receptive_attune_screen_message_list": [
+        "Baut Beziehungen durch Vertrauen auf",
+        "Erzielt Ergebnisse durch Bündnis"
+    ],
+    "facilitate": "ERLEICHTERN",
+    "facilitate_message": "Helfen Sie dem anderen, Verantwortung für Maßnahmen zu übernehmen",
+    "receptive_facilitate_screen_message_list": [
+        "Baut Beziehungen durch Hilfsangebot auf",
+        "Erzielt Ergebnisse durch Verantwortung"
+    ],
+    "receptive_influence": "Rezeptiver Einfluss",
+    "disengage_screen_title": "Disengagieren: Bleiben Sie für einen anderen Tag einflussreich",
+    "disengage_subtitle_1": "Manchmal kann die Situation während eines Einflussengagements einen Bruch oder eine alternative Einflusstaktik erfordern. Wenn Sie beispielsweise feststellen, dass keine Fortschritte erzielt werden, können Sie sich auf solche Weise disengagieren, dass andere verstehen, dass Sie beabsichtigen, nach der Pause Ihr Ziel weiterhin zu verfolgen.",
+    "disengage_subtitle_2": "Zusätzlich zum Disengagieren gibt es andere Möglichkeiten, Menschen indirekt zu beeinflussen, einschließlich Modellierung, Demonstration, Geschichtenerzählung, Weitergabe von Büchern, Links und Artikeln, Bildung von Koalitionen und Organisationen, die sich für wichtige Anliegen einsetzen können, und Teilnahme am politischen Prozess.",
+    "influence_framework_msg_1": "Was ist Ihre Erfolgsvision? Welche Rolle wird die andere Person darin spielen?",
+    "influence_framework_msg_2": "Was sind die Bedürfnisse, die Ihrer Vision zugrunde liegen? Für Sie? Für die Organisation? Für die Person, die Sie beeinflussen?",
+    "influence_framework_msg_3": "Welche spezifischen, langfristigen und kurzfristigen Ziele haben Sie für die Einflussgelegenheit? Was sind Ihre Erfolgskriterien? Wie werden Sie wissen, dass Sie die angestrebten Ergebnisse erreicht haben?",
+    "influence_framework_msg_4": "Welche alternativen Ergebnisse könnten die zugrunde liegenden Bedürfnisse erfüllen und gleichwertige Ergebnisse erzielen?",
+    "influene_frameWork_subtitle": "Ergebnisse sind die langfristigen Ziele, spezifische Einflussnahmen, Ziele und Probleme; und was der Einflussnehmer zu erreichen hofft.",
+    "relationship_screen_subtitle": "Die Beziehung umfasst die bisherige Geschichte, den aktuellen Zustand und die erwartete Zukunft der Arbeitsbeziehung.",
+    "relationship_screen_msg_1": "Was ist die Geschichte Ihrer (oder der Geschichte Ihres Teams) Einflussverhältnisse (in beide Richtungen) mit dieser Person oder Gruppe?",
+    "relationship_screen_msg_2": "Was ist das aktuelle Vertrauensniveau? Warum?",
+    "relationship_screen_msg_3": "Welche Annahmen haben Sie jeweils übereinander? Wie werden Sie sie testen? Wie könnten sie das Ergebnis beeinflussen?",
+    "relationship_screen_msg_4": "Was ist die Machtbalance zwischen Ihnen und dem anderen?",
+    "relationship_screen_msg_5": "Was sind die laufenden Probleme in der Beziehung, unabhängig davon, ob sie direkt mit dieser Einflussgelegenheit zusammenhängen?",
+    "context_screen_subtitle": "Der Kontext setzt sich zusammen aus individuellen und organisatorischen Bedürfnissen, Vorlieben, Einstellungen und Prioritäten sowie den Auswirkungen der nationalen, regionalen, beruflichen oder organisatorischen Kultur. Der Kontext umfasst auch Trends, Ereignisse und Probleme in der externen Umgebung.",
+    "individual": "Individuell",
+    "organizational": "Organisatorisch",
+    "cultural": "Kulturell",
+    "external_trends": "Externe Trends und Probleme",
+    "approach_screen_subtitlle": "Sobald Sie die Ergebnisse, die Beziehung und den Kontext für eine spezifische Einflussgelegenheit untersucht haben, können Sie die Taktiken identifizieren, die es Ihnen ermöglichen, die geeigneten Verhaltensweisen zu wählen. Verhaltensweisen sind die zwischenmenschlichen Kommunikationswerkzeuge, sowohl expressiv als auch rezeptiv, die verwendet werden, um Ergebnisse zu erzielen.",
+    "approach_screen_msg_1": "Angesichts Ihrer Analyse der Situation, welche Einflusstaktiken werden wahrscheinlich am wirksamsten sein?",
+    "approach_screen_msg_2": "Was sind die besten spezifischen Verhaltensweisen, um diese Ergebnisse zu erzielen?",
+    "flexible_screen_subtitle_1": "Fähig, nach Bedarf angepasst zu werden",
+    "flexible_screen_subtitle_2": "Kann, falls der Kontext es erfordert, auf eine andere Weise geändert werden, um Ihre zugrunde liegenden Bedürfnisse zu erfüllen.",
+    "flexible_screen_subtitle_3": "Cary wird zustimmen, mir Online-Zugriff auf das Verkaufsinformationssystem zu gewähren, oder alles, das mir die aktuellen Verkaufszahlen täglich beschafft.",
+    "flexible_screen_first_title": "Flexibel:",
+    "flexible_screen_last_title": "Unflexibel",
+    "flexible_screen_subtitle_4": "Cary wird mir Online-Zugriff auf aktuelle Verkaufsinformationen geben.",
+    "observable_screen_subtitle_1": "In der nahen Zukunft",
+    "observable_screen_subtitle_2": "Ergebnisse können während der Einflussgelegenheit bemerkt werden...",
+    "observable_screen_subtitle_3": "John wird am Ende unseres Treffens zustimmen, die Verantwortung für die Koordination mit dem Anbieter zu übernehmen.",
+    "observable_screen_subtitle_4": "John wird sich mehr für das Projekt interessieren.",
+    "observable_screen_first_title": "Beobachtbar:",
+    "observable_screen_last_title": "Nicht beobachtbar:",
+    "courageous_screen_subtitle_1": "Ehrgeizig; möglich, aber eine Herausforderung",
+    "courageous_screen_subtitle_2": "Das Einflussziel sollte herausfordernd sein, um sicherzustellen, dass der erforderliche Aufwand und das Risiko sich lohnen. Wenn es keine Mut erfordert, um es zu erreichen, nutzen Sie die Gelegenheit wahrscheinlich nicht vollständig.",
+    "courageous_screen_subtitle_3": "Kumar wird sich zu drei Personen für mein Projekt verpflichten.",
+    "courageous_screen_first_title": "Optimistisch:",
+    "courageous_screen_subtitle_4": "Kumar wird sich zu drei Personen für mein Projekt verpflichten.",
+    "courageous_screen_second_title": "Feige:",
+    "courageous_screen_subtitle_5": "Kumar wird zustimmen, eine Teilnahme an meinem Projekt in Betracht zu ziehen.",
+    "courageous_screen_third_title": "Kühn und unrealistisch:",
+    "courageous_screen_subtitle_6": "Kumar wird sich sein gesamtes Budget für mein Projekt verpflichten.",
+    "useful_screen_subtitle_1": "Erfüllen Sie das zugrunde liegende Bedürfnis",
+    "useful_screen_subtitle_2": "Wird Ihr Bedürfnis vollständig erfüllen und konzentriert sich auf Ihr wichtigstes Bedürfnis; der Grund, warum Sie die andere Person beeinflussen.",
+    "useful_screen_first_title": "Erfüllen Sie das zugrunde liegende Bedürfnis:",
+    "useful_screen_subtitle_3": "Megan wird zustimmen, mein Budget zu erhöhen, um die benötigten Ressourcen zu bezahlen.",
+    "useful_screen_last_title": "Nicht auf das zugrunde liegende Bedürfnis ausgerichtet:",
+    "useful_screen_subtitle_4": "Megan wird zugeben, dass sie bei der Budgetallokation unfair war.",
+    "supportive_screen_subtitle_1": "Ausgerichtet auf langfristige strategische Ziele",
+    "supportive_screen_subtitle_2": "Einflussziele sind kurzfristig, aber um wirksam zu sein, müssen sie mit langfristigen strategischen Zielen ausgerichtet sein, um signifikante Ergebnisse zu erzielen.",
+    "supportive_screen_first_title": "Ausgerichtet:",
+    "supportive_screen_subtitle_3": "Wird Peggy zustimmen, unser Problem auf dem Planungstreffen anzusprechen?",
+    "supportive_screen_last_title": "Nicht ausgerichtet:",
+    "supportive_screen_subtitle_4": "Peggy wird zustimmen, den Planungsausschuss nur dieses eine Mal zu umgehen.",
+    "ask_open_ended_question_list": [
+        "Was beunruhigt Sie bezüglich...?",
+        "Was könnte sonst noch funktionieren?",
+        "Welche Ideen haben Sie zu...?",
+        "Welche anderen Ideen haben Sie?",
+        "Was denken Sie über...?",
+        "Wie könnten wir...?",
+        "Was sollten wir zu... tun?"
+    ],
+    "draw_out_questions_list": [
+        "Sie erwähnten... Geben Sie mir ein Beispiel.",
+        "Geben Sie mir eine Idee, wie das funktionieren würde.",
+        "Sagen Sie mehr darüber...",
+        "Ich möchte klarer sein über...",
+        "Erzählen Sie mir mehr darüber..."
+    ],
+    "check_understanding_questions_list": [
+        "Also aus Ihrer Sicht...?",
+        "Lassen Sie mich mein Verständnis überprüfen...",
+        "Verstehe ich richtig, dass Sie sagen...?",
+        "Also denken Sie (hoffen, fühlen, machen sich Sorgen, glauben, empfehlen, etc.)...?",
+        "Sie sagen, dass...?"
+    ],
+    "test_implications_questions_list": [
+        "Angesichts dessen, was Sie sagten, nehme ich an... ist das genau?",
+        "Sie scheinen besorgt (beängstigt, zögernd, etc.) zu sein... könnte das an X liegen?",
+        "Ich frage mich, ob Sie sich Sorgen um... machen könnten?",
+        "Wenn Sie X tun, macht Sie Y Sorgen... ist das richtig?"
+    ],
+    "identify_with_other_questions_list": [
+        "Unter den Umständen könnte mir X Sorgen bereiten. Ist das ein Problem hier?",
+        "An Ihrer Stelle könnte ich...",
+        "Ich fühle (habe gefühlt) mich so, wenn...",
+        "Ich weiß, dass Sie gerade (gehetzt, überlastet, sehr beschäftigt, etc.) sind...",
+        "Wenn ich Sie wäre, könnte ich mich gerade (fühlen, denken, mir Sorgen machen, etc.)..."
+    ],
+    "disclose_statements_list": [
+        "Mir ist unwohl (besorgt, beängstigt, es geht mir nicht gut, etc.) über...",
+        "Mir ist bewusst, dass ich vorhin etwas (Falsches, Verletztes, etc.) gesagt habe...",
+        "Ich könnte wirklich Ihre Hilfe bei... gebrauchen.",
+        "Ich bin unsicher über...",
+        "Ich lag falsch über...",
+        "Ich möchte dir sagen, warum ich das tue... (gefolgt von einer Aussage, die Ihr Problem, Ihre Motivationen, etc. offenbart, nicht Ihre Begründung)",
+        "Du hast recht. Ich sollte haben..."
+    ],
+    "clarify_issues_statements_list": [
+        "Was Sie vorwärts treibt ist... und was Sie zurückhält ist...",
+        "Zusammenfassend sind die Probleme für Sie...",
+        "Ich verstehe, dass Sie (wollen, hoffen, erwarten, beabsichtigen, etc.) X und dennoch...",
+        "Einerseits... und andererseits...",
+        "Also ist Ihr Dilemma (Problem, Klemme, Besorgnis, etc.)..."
+    ],
+    "pose_challenging_questions_list": [
+        "Was könnten Sie sonst noch tun?",
+        "Welche Optionen erwägen Sie?",
+        "Was könnten Sie tun, das...?",
+        "Was wird es brauchen, damit Sie...?",
+        "Wie könnten Sie das angehen?",
+        "Wie können Sie (wir) das funktionieren lassen?",
+        "Was brauchen Sie von mir, damit Sie...?"
+    ],
+    "suggest_statements_list": [
+        "Ich schlage (propose, empfehle, etc.) vor, dass...",
+        "Was wäre, wenn Sie (ich, wir)...?",
+        "Hier ist eine Idee. Wir (Sie, ich) könnten...",
+        "Eine Möglichkeit ist...",
+        "Wie wäre es damit? Wir (Sie, ich)..."
+    ],
+    "express_needs_statements_list": [
+        "Ich brauche (möchte, muss haben, etc.)...",
+        "Hier ist das, was ich gerne hätte...",
+        "Es ist mir wichtig, dass...",
+        "Ich möchte, dass Sie...",
+        "Es würde mir helfen, wenn Sie..."
+    ],
+    "offer_reasons_statements_list": [
+        "Hier ist der Grund...",
+        "Die Gründe sind...",
+        "Meine Analyse zeigt...",
+        "Wir sollten uns bewusst sein, dass...",
+        "Die Fakten sind, dass...",
+        "Wenn... dann... (logische Schlussfolgerung)"
+    ],
+    "goals_and_benefits_statements_list": [
+        "Dies unterstützt unsere Ziele von...",
+        "Die Vorteile für Sie sind...",
+        "Dies könnte Ihnen helfen zu erreichen...",
+        "Unsere gemeinsamen Interessen sind...",
+        "Die Vorteile für die Organisation sind..."
+    ],
+    "offer_incentives_statements_list": [
+        "Wenn Sie (können, zustimmen) das tun, werde ich...",
+        "Im Gegenzug werde ich...",
+        "Hier ist das, was ich tun könnte, um es funktionieren zu lassen. Ich werde...",
+        "Es ist nur fair, dass ich...",
+        "Wenn Sie zustimmen, werde ich es leichter machen, indem..."
+    ],
+    "describe_consequences_statements_list": [
+        "Wenn Sie nicht (nicht wollen, nicht können)... werde ich (nicht)...",
+        "Ich muss Sie über die Konsequenzen von... informieren.",
+        "Hier ist das, was wir sehen, wenn Sie nicht (nicht wollen)...",
+        "Um fair zu sein, muss ich Sie darüber informieren, was passieren könnte, wenn Sie nicht...",
+        "Sie sind sich möglicherweise nicht der Folgen bewusst, wenn wir nicht... (dann erklären)"
+    ],
+    "envision_statements_list": [
+        "Ich kann uns sehen...",
+        "Ich stelle mir vor (visioniere)...",
+        "Hier ist, was ich denke, könnte passieren...",
+        "Stellen Sie sich vor...",
+        "Es ist ein Jahr von jetzt an, und wir..."
+    ],
+    "encourage_statements_list": [
+        "Ich weiß, dass wir können...",
+        "Ich glaube, dass wir als Team...",
+        "Du und ich können das funktionieren lassen...",
+        "Ich weiß, dass Sie fähig sind zu...",
+        "Ich erinnere mich, als Sie..."
+    ],
+    "context_individual": "Kontext: Individuell",
+    "context_individual_message_list": [
+        "Was sind die relevanten Werte des anderen?",
+        "Welche Ziele sind für sie wichtig?",
+        "Welche Vorteile könnte die Erreichung meines Einflussziel für sie bieten?",
+        "Welche gemeinsamen oder widersprüchlichen Eigeninteressen sind in der Situation wichtig? Was hat jeder von uns zu gewinnen oder zu verlieren?",
+        "Was sind die wichtigen aktuellen Probleme, die diese Person beeinflussen?",
+        "Welche Probleme könnten durch mein Einflussziel aufgeworfen werden?",
+        "Wie würden Sie ihren Kommunikations- oder Arbeitsstil beschreiben? Wie möchten sie normalerweise angesprochen werden?"
+    ],
+    "context_organizational": "Kontext: Organisatorisch",
+    "context_organizational_message_list": [
+        "Wie bezieht sich die Geschäftsstrategie der Organisation auf das vorliegende Thema? Sind die angestrebten Ergebnisse eine gute Passung für die Organisationsstrategie und die Ziele? Wie könnten Sie die Passung verbessern?",
+        "Wie beeinflussen die Struktur und der Prozess der Organisation Ihren Einflusansatz? Ist Ihr Ansatz außergewöhnlich?",
+        "Wo steht das Thema in der Rangfolge der organisatorischen Prioritäten?",
+        "Wie könnten die formalen oder informalen Machtstrukturen in der Organisation das Ergebnis Ihrer Einflusmaßnahme beeinflussen?",
+        "Wer sind die Beteiligten? Wie werden Sie sie einbeziehen?"
+    ],
+    "context_cultural": "Kontext: Kulturell",
+    "context_cultural_message_list": [
+        "Was sind die kulturellen Werte (organisatorisch, beruflich, national oder ethnisch), die für dieses Thema relevant sind?",
+        "Was sind die Normen (formale oder informale Grundregeln), die Sie kennen sollten?",
+        "Was sind einige der kulturellen Annahmen, die sich auf die Situation beziehen?",
+        "Was sind die üblichen kulturellen Praktiken oder Rituale, die in dieser Situation nützlich sein könnten?",
+        "Gibt es kulturelle Tabus, die meinen Ansatz entgleisen könnten?"
+    ],
+    "context_external_trends_issues": "Kontext: Externe Trends und Probleme",
+    "context_external_trends_and_issues_message_list": [
+        "Was geschieht derzeit in den größeren Systemen, von denen wir Teil sind, das Ihre Einflussgelegenheit beeinflussen könnte?",
+        "Welche spezifischen Probleme ergeben sich für Sie und den anderen im Hinblick auf diese Einflusssituation?",
+        "Was sollten Sie tun, um diese Probleme bezüglich ihrer Wichtigkeit, Passung oder Priorität zu verwalten?"
+    ],
+    "behaviour_suggest": "Verhalten: Vorschlagen",
+    "offer_an_idea_section": "Bieten Sie eine Idee oder Empfehlung an.",
+    "behaviour_suggest_message_list": [
+        "Ich schlage (propose, empfehle, etc.) vor, dass...",
+        "Was wäre, wenn wir (Sie, ich) würden...?",
+        "Hier ist eine Idee. Wir (Sie, ich) könnten...",
+        "Eine Möglichkeit ist...",
+        "Wie wäre es damit? Wir (Sie, ich)..."
+    ],
+    "criteria": "Kriterien",
+    "examples": "Beispiele",
+    "starter": "Starter",
+    "behaviour_examples": "Verhaltensbeispiele",
+    "example_screen_header_message": "Bieten Sie eine Idee oder Empfehlung an.",
+    "example_screen_subtitle_message_1": "Ich schlage vor, dass Sie Janet bitten, den Task Force zu leiten.",
+    "example_screen_subtitle_message_2": "Die Daten bis Freitag nachmittag zu mir zu bringen würde gut funktionieren.",
+    "behaviour_criteria": "Verhaltensrichtlinien",
+    "behaviour_criteria_screen_title": "Der Vorschlag ist:",
+    "behaviour_criteria_message_list": [
+        "klar und eindeutig dargelegt",
+        "relevant für das vorliegende Thema",
+        "in einer Sprache formuliert, die für den anderen Sinn macht",
+        "bezogen auf ein Thema, für das sich der andere interessiert"
+    ],
+    "behaviour_express_needs": "Verhalten: Bedürfnisse ausdrücken",
+    "behaviour_express_needs_subtitle": "Geben Sie direkt an, was Sie wünschen oder was geschehen muss.",
+    "behaviour_express_needs_message_list": [
+        "Ich brauche (möchte, muss haben, etc.)...",
+        "Hier ist das, was ich gerne hätte...",
+        "Es ist mir wichtig, dass...",
+        "Ich möchte, dass Sie...",
+        "Es würde mir helfen, wenn Sie..."
+    ],
+    "behaviour_express_criteria_screen_title": "Das ausgedrückte Bedürfnis ist:",
+    "behaviour_criteria_express_needs_message_list": [
+        "klar und eindeutig dargelegt",
+        "eigen (\"Ich brauche\" anstelle von \"Wir brauchen\", es sei denn, Sie sind der Sprecher einer Gruppe)",
+        "nicht mehr als ein angemessener Einsatz, angesichts der Beziehung",
+        "sachlich dargelegt, nicht auf emotionale oder bedrohliche Weise"
+    ],
+    "behaviour_express_nexamples_message_list": [
+        "Es ist mir wichtig, dass Janet in diesem Projekt einbezogen wird.",
+        "Ich brauche Ihre Daten bis Freitag um 15:00 Uhr."
+    ],
+    "behaviour_offer_reason": "Verhalten: Gründe anbieten",
+    "behaviour_offer_reason_screen_subtitle": "Erklären Sie, warum Sie glauben, dass die Maßnahme richtig oder notwendig ist.",
+    "behaviour_offer_reason_screen_message_list": [
+        "Hier ist der Grund...",
+        "Die Gründe sind...",
+        "Meine Analyse zeigt...",
+        "Wir sollten uns bewusst sein, dass...",
+        "Die Fakten sind, dass...",
+        "Wenn... dann... (logische Schlussfolgerung)"
+    ],
+    "behaviour_offer_criteria_screen_title": "Die Gründe sind:",
+    "behaviour_offer_criteria_message_list": [
+        "klar dargelegt",
+        "unterstützt Ihren Vorschlag oder erklärt Ihr Bedürfnis",
+        "bedeutsam für den anderen (anstelle von überzeugender für Sie)",
+        "wenig in Anzahl / hoch in Qualität"
+    ],
+    "behaviour_offer_reason_example_title": "Erklären Sie, warum Sie glauben, dass die Maßnahme richtig oder notwendig ist.",
+    "behaviour_offer_reason_screen_subTitle_1": "Janet möchte mehr Sichtbarkeit für ihre Abteilung zu diesen Themen.",
+    "behaviour_offer_reason_screen_subTitle_2": "Wenn ich Ihre Daten bis Freitag bekommen kann, kann ich das Dokument bis zu unserem Treffen am Dienstag ausdrucken.",
+    "behaviour_refer_goals_benifit_title": "Verhalten: Auf Ziele und Vorteile verweisen",
+    "behaviour_refer_goals_benifit_subtitle": "Zeigen Sie, wie Ihr Vorschlag oder ausgedrücktes Bedürfnis dem anderen oder der Organisation Vorteile bieten kann",
+    "refer_goals_and_benefits_screen_message_list": [
+        "Dies unterstützt unser Ziel von...",
+        "Die Vorteile für Sie sind...",
+        "Dies könnte Ihnen helfen zu erreichen...",
+        "Unsere gemeinsamen Interessen sind...",
+        "Die Vorteile für die Organisation sind..."
+    ],
+    "refer_goals_benifits_example_screen_title": "Zeigen Sie, wie Ihr Vorschlag oder ausgedrücktes Bedürfnis dem anderen oder der Organisation Vorteile bieten kann.",
+    "refer_goals_and_benefits_example_message_list": [
+        "Die Anwerbung von Janet wird uns helfen, die Unterstützung der Senior-Führung zu erhalten.",
+        "Ich weiß, dass wir beide möchten, dass dieses Treffen erfolgreich ist. Das Paket bereit zu haben würde wirklich helfen."
+    ],
+    "refer_goals_and_benifit_criteria_title": "Die Vorteile oder Ziele sind:",
+    "refer_goals_and_benefits_criteria_message_list": [
+        "Verstanden und vom anderen anerkannt",
+        "Wichtig und relevant für die Situation",
+        "Spezifisch und überzeugend anstelle von allgemein",
+        "Wenig in Anzahl, hoch in Qualität",
+        "Positiv und vorteilhaft für die andere Person und die Organisation"
+    ],
+    "behaviour_offer_incentives": "Verhalten: Anreize anbieten",
+    "behaviour_offer_incentive_screen_subtitle": "Bieten Sie der anderen Partei einen fairen Austausch für die Maßnahme an.",
+    "offer_incentive_screen_message_list": [
+        "Wenn Sie (können, zustimmen) das tun, werde ich...",
+        "Im Gegenzug werde ich...",
+        "Hier ist das, was ich tun könnte, um es funktionieren zu lassen. Ich werde...",
+        "Es ist nur fair, dass ich... (ein Hilfeangebot machen)",
+        "Wenn Sie zustimmen, werde ich es leichter machen, indem..."
+    ],
+    "offer_incentive_example_screen_message_list": [
+        "Wenn Sie mich dabei unterstützen, bin ich bereit, mich an Janet zu wenden.",
+        "Wenn Sie sich verpflichten können, mir die Daten bis Freitag zu geben, helfe ich gerne beim Formatieren."
+    ],
+    "offer_incentive_criteria_title": "Die Anreize sind:",
+    "offer_incentive_criteria_message_list": [
+        "In Ihrer Kontrolle",
+        "Interessant für die andere Partei",
+        "die Sie bereit sind zu liefern",
+        "Ein fairer Austausch für das, was Sie vom anderen wünschen"
+    ],
+    "behaviour_describe_consequences": "Verhalten: Konsequenzen beschreiben",
+    "behaviour_describe_screen_subtitle": "Informieren Sie die andere Partei über Konsequenzen, wenn die Maßnahme nicht ergriffen wird.",
+    "describe_consequence_message_list": [
+        "Wenn Sie nicht (nicht wollen, nicht können)... werde ich (nicht)...",
+        "Ich muss Sie über die Konsequenzen von... informieren.",
+        "Hier ist das, was wir sehen, wenn Sie nicht (nicht wollen)...",
+        "Um fair zu sein, muss ich Sie darüber informieren, was passieren könnte, wenn Sie nicht...",
+        "Sie sind sich möglicherweise nicht der Folgen bewusst, wenn wir nicht... (dann erklären)"
+    ],
+    "behaviour_describe_example_screen_message_list": [
+        "Wenn Sie sie nicht in die Planung einbeziehen, nehme ich an, dass sie nicht da sind, wenn wir ihre Hilfe in der Implementierung brauchen.",
+        "Wenn Sie mir die Daten bis Freitag nicht geben können, muss ich das Treffen verschieben und das Projekt weiter verzögern."
+    ],
+    "describe_consequence_screen_title": "Die Konsequenzen sind:",
+    "describe_consequence_criteria_message_list": [
+        "In Ihrer Kontrolle oder klar verstanden, wenn von anderen ausgeübt",
+        "Relevant für den anderen",
+        "Angemessen angesichts der Wichtigkeit der Situation",
+        "Zeitnah; eine faire Warnung von Maßnahmen, wenn Ihr Bedürfnis nicht erfüllt ist oder der Vorschlag nicht umgesetzt wird"
+    ],
+    "behaviour_envision": "Verhalten: Sich vorstellen",
+    "behaviour_envision_title": "Helfen Sie der anderen Partei, sich das positive Ergebnis erfolgreicher Maßnahmen vorzustellen.",
+    "enlist_envision_screen_message_list": [
+        "Ich kann uns sehen...",
+        "Ich stelle mir vor (visioniere)...",
+        "Hier ist, was ich denke, könnte passieren...",
+        "Stellen Sie sich vor...",
+        "Es ist ein Jahr von jetzt an, und wir..."
+    ],
+    "enlist_envision_screen_example_message_list": [
+        "Ich kann uns sehen, dass wir die Ergebnisse dem Führungsstab als koordiniertes, engagiertes Team präsentieren und ihre Unterstützung schnell erhalten.",
+        "Dieses Treffen wird ein großer Erfolg: Wir werden alles haben, was wir brauchen."
+    ],
+    "the_vision_is": "Die Vision ist:",
+    "enlist_envision_criteria_screen_message_list": [
+        "Klar und deskriptiv, konzentriert sich darauf, wohin wir gehen, nicht wie wir dorthin gelangen",
+        "Positiv, optimistisch und in der Zukunft nach Erfolg eingestellt",
+        "Inklusiv; andere können sich selbst in der Bild sehen",
+        "Basierend auf gemeinsamen Zielen, Werten und Vorteilen"
+    ],
+    "behaviour_encourage": "Verhalten: Ermutigen",
+    "behaviour_encourage_screen_title": "Drücken Sie Vertrauen in die Fähigkeit des anderen aus, Maßnahmen zu ergreifen.",
+    "enlist_encourage_screen_message_list": [
+        "Ich weiß, dass wir können...",
+        "Ich glaube, dass wir als Team...",
+        "Du und ich können das funktionieren lassen...",
+        "Ich weiß, dass Sie fähig sind zu...",
+        "Ich erinnere mich, als Sie..."
+    ],
+    "enlist_encourage_example_screen_message_list": [
+        "Erinnern Sie sich, als Sie letztes Jahr dem Führungsstab präsentiert haben und sie waren so beeindruckt von Ihrem Enthusiasmus? Das können Sie wieder tun.",
+        "Mit Ihrer Hilfe wird dieses Treffen ein großer Erfolg: Wir werden alles haben, was wir gerade brauchen."
+    ],
+    "the_encouragement_is": "Die Ermutigung ist:",
+    "enlist_encourage_criteria_screen_message_list": [
+        "Ausdruck echten Vertrauens in die Fähigkeit des anderen, erfolgreich zu sein",
+        "Ausdruck Ihres eigenen Enthusiasmus für die Maßnahme",
+        "Eine Einladung, Teil des Teams zu sein",
+        "Spiegelung eines Einsatzziels, aber nicht zu weit außerhalb der Reichweite"
+    ],
+    "behaviour_draw_out": "Verhalten: Herausziehen",
+    "behaviour_draw_out_title": "Bauen Sie auf den angebotenen Informationen auf, um sie zu vertiefen oder zu erweitern",
+    "receptive_inquire_draw_out_message_list": [
+        "Erzählen Sie mir mehr über...",
+        "Ich möchte klarer sein über...",
+        "Sagen Sie mehr darüber...",
+        "Geben Sie mir eine Idee, wie das funktionieren würde.",
+        "Sie erwähnen... Geben Sie mir ein Beispiel."
+    ],
+    "receptive_inquire_draw_out_example_screen_message_list": [
+        "Sie erwähnten, dass Sie einige Zweifel an Janets Interesse daran hatten – sagen Sie mehr darüber.",
+        "Welche anderen Möglichkeiten können Sie sich denken?"
+    ],
+    "receptive_draw_out_criteria_screen_title": "Aussagen oder Fragen zum Herausziehen sind.",
+    "receptive_inquire_draw_out_criteria_screen_message_list": [
+        "Basierend auf etwas, das der andere gesagt hat",
+        "Neutral formuliert",
+        "Konzentriert sich auf einen Teil der Kommunikation des anderen, der Vorteile für beide verspricht",
+        "Kurz und einfach"
+    ],
+    "behaviour_check_understanding": "Verhalten: Verständnis überprüfen",
+    "behaviour_check_understanding_screen_title": "Paraphrasieren Sie Ihr Verständnis dessen, was der andere gesagt hat, und bitten Sie um Zustimmung.",
+    "receptive_listen_check_understanding_message_list": [
+        "Sie sagen, dass...",
+        "Also denken Sie (hoffen, fühlen, machen sich Sorgen, glauben, empfehlen, etc.)...",
+        "Verstehe ich richtig, dass Sie sagen...?",
+        "Lassen Sie mich mein Verständnis überprüfen...",
+        "Also, aus Ihrer Sicht..."
+    ],
+    "receptive_listen_check_understanding_example_screen_message_list": [
+        "Also empfehlen Sie, dass wir zusammen zu ihr gehen.",
+        "Sie schlagen vor, dass wir Ihren Manager bitten, Mittel für einen Auftragnehmer zu genehmigen, um damit zu helfen. Ist das richtig?"
+    ],
+    "receptive_checkunderStanding_screen_subtitle": "Die Paraphrase ist:",
+    "receptive_listen_check_understanding_criteria_screen_message_list": [
+        "Angemessen genau (es muss nicht exakt sein; der andere wird Sie korrigieren und Sie erhalten Anerkennung für die Bemühung)",
+        "Relativ kurz",
+        "Konzentriert sich auf wichtige Punkte, die für Sie und den anderen relevant sind",
+        "Neutral; drückt Ihre Meinung weder verbal noch nonverbal aus"
+    ],
+    "behaviour_test_implications": "Verhalten: Auswirkungen testen",
+    "behaviour_test_implication_screen_subtitle": "Geben Sie Ihre Inferenz darüber an, was der andere meint, und fragen Sie oder warten Sie auf Zustimmung oder Korrektur.",
+    "test_implications_screen_message_list": [
+        "Wenn Sie X tun, macht Sie Y Sorgen - ist das richtig?",
+        "Ich frage mich, ob Sie sich Sorgen um... machen könnten?",
+        "Sie scheinen besorgt (beängstigt, zögernd, etc.) zu sein... könnte das an X liegen?",
+        "Unter den Umständen könnte mir X Sorgen bereiten. Ist das ein Problem hier?",
+        "Angesichts dessen, was Sie sagten, nehme ich an... ist das genau?"
+    ],
+    "the_implications_are": "Die Implikationen sind:",
+    "receptive_test_implication_criteria_message_list": [
+        "Diejenigen, die nicht schlecht auf den anderen reflektieren",
+        "Sachlich dargelegt (angemessene Menschen könnten darüber besorgt sein)",
+        "Innerhalb des Bereichs dessen, was in Ihrer Organisation für diskutierbar gehalten wird (es sei denn, das Vertrauen ist extrem hoch)",
+        "Angemessene Schlussfolgerungen, angesichts der Aussage des anderen"
+    ],
+    "receptive_test_implication_example_message_list": [
+        "Sie scheinen zögerlich, dies zu initiieren; könnte das mit dem kürzlichen Zusammenstoß Ihres Teams mit ihr zusammenhängen?",
+        "Ich denke, Sie könnten sich Sorgen um die Qualität des fertigen Berichts machen. Ist das der Fall?"
+    ],
+    "behaviour_identify_with_other": "Verhalten: Mit anderen identifizieren",
+    "behaviour_identify_with_other_screen_subtitle": "Geben Sie nachdrücklich an, wie die Situation des anderen ihn beeinflussen könnte.",
+    "receptive_attune_identify_with_other_screen_message_list": [
+        "Wenn ich Sie wäre, könnte ich mich gerade (fühlen, denken, mir Sorgen machen, etc.)...",
+        "Ich weiß, dass Sie gerade (gehetzt, überlastet, sehr beschäftigt, etc.) sind...",
+        "Ich fühle (habe gefühlt) mich so, wenn...",
+        "An Ihrer Stelle könnte ich...",
+        "Unter den Umständen könnte mir X Sorgen bereiten. Ist das ein Problem hier?"
+    ],
+    "the_identification_is": "Die Identifizierung ist:",
+    "receptive_attune_identify_with_other_criteria_screen_message_list": [
+        "Wahrgenommen als echt (und ist es)",
+        "Konzentriert sich auf etwas, das der andere für wichtig hält",
+        "Relevant für die Diskussion des Problems",
+        "Sachlich dargelegt und schlägt keine Lösung vor"
+    ],
+    "receptive_attune_identify_with_other_example_screen_message_list": [
+        "Wenn ich Sie wäre, könnte ich mich gerade ein wenig schlachtmüde fühlen.",
+        "Als ich an Ihrer Stelle war, fühlte ich mich manchmal von der Komplexität der Aufgabe überwältigt."
+    ],
+    "receptive_disclose": "Verhalten: Offenbaren",
+    "receptive_disclose_screen_subtitle": "Bieten Sie Informationen über sich selbst an, die relevant sind und deren Anerkennung Sie etwas kostet.",
+    "receptive_disclose_screen_message_list": [
+        "Ich lag falsch über...",
+        "Ich könnte wirklich Ihre Hilfe bei... gebrauchen.",
+        "Ich bin unsicher über...",
+        "Du hast recht. Ich sollte haben...",
+        "Mir ist bewusst, dass ich vorhin etwas... (Falsches, Verletztes, etc.) gesagt habe...",
+        "Mir ist unwohl (besorgt, beängstigt, es geht mir nicht gut, etc.) über...",
+        "Ich möchte dir sagen, warum ich das tue... (Gefolgt von einer Aussage, die Ihr Problem, Ihre Motivation, etc. offenbart, nicht Ihre Begründung.)"
+    ],
+    "the_disclosure_is": "Die Offenbarung ist:",
+    "receptive_disclose_criteria_message_list": [
+        "Wahrgenommen als echt (und ist es)",
+        "Etwas, das Sie etwas kostet, um zu erkennen",
+        "Relevant für das unter Diskussion befindliche Thema",
+        "Angemessen zur Ebene der Diskussion, bewegt sie aber zu größerer Offenheit"
+    ],
+    "receptive_disclose_example_screen_message_list": [
+        "Ich war zögerlich, dies mit Ihnen zu besprechen, da ich weiß, dass Ihre Arbeitsbeziehung mit Janet nicht einfach war.",
+        "Mir ist wirklich unangenehm, das zu drücken; wenn ich am Anfang nicht so langsam gewesen wäre, könnten wir weiter gekommen sein."
+    ],
+    "clarify_issues": "Probleme klären",
+    "post_challenging_questions": "Herausfordernde Fragen stellen",
+    "behaviour_clarify_issues": "Verhalten: Probleme klären",
+    "behaviour_clarify_issues_subtitle": "Helfen Sie dem anderen, eine Situation zu konfrontieren, indem Sie wichtige oder zugrunde liegende Probleme widerspiegeln.",
+    "receptive_facilitate_clarify_issues_screen_message_list": [
+        "Also ist Ihr Dilemma (Problem, Klemme, Besorgnis, etc.)...",
+        "Einerseits... und andererseits...",
+        "Ich verstehe, dass Sie (wollen, hoffen, erwarten, beabsichtigen, etc.) X und dennoch...",
+        "Zusammenfassend sind die Probleme für Sie...",
+        "Was Sie vorwärts treibt ist... und was Sie zurückhält ist..."
+    ],
+    "the_clarification_is": "Die Klärung ist:",
+    "receptive_facilitate_clarify_issues_criteria_message_list": [
+        "Eine faire Zusammenfassung des bisherigen Gesprächs",
+        "Konzentriert sich auf beides, was den anderen zurückhält und was ihn zu Maßnahmen treibt",
+        "Wahrgenommen als frei von Ihrer Meinung oder Voreingenommenheit",
+        "Sachlich dargelegt anstelle eines Beratungsstils"
+    ],
+    "receptive_facilitate_clarify_issues_example_screen_message_list": [
+        "Es scheint, dass Sie ein Dilemma haben - einerseits möchten Sie die Beziehung verbessern und ihre Unterstützung erhalten; andererseits glauben Sie nicht, dass sie kooperativ wäre, wenn Sie sich ihr nähern würden.",
+        "Ich verstehe, dass Sie beteiligt sein möchten und Ihren Teil beitragen, aber nicht sicher sind, wie Sie es mit Ihrem Zeitplan vereinbaren können."
+    ],
+    "behaviour_post_challenging_questions": "Verhalten: Herausfordernde Fragen stellen",
+    "postCallenging_screen_subtitle": "Regen Sie den anderen an, Maßnahmen zu identifizieren, die er ergreifen kann, um ein schwieriges Problem zu bewältigen.",
+    "receptive_post_challenging_screen_message_list": [
+        "Wie könnten Sie das angehen?",
+        "Was könnten Sie tun, das...?",
+        "Was wird es brauchen, damit Sie...?",
+        "Was brauchen Sie von mir, damit Sie...?",
+        "Welche Optionen erwägen Sie?",
+        "Was könnten Sie sonst noch tun?",
+        "Wie können Sie das funktionieren lassen?"
+    ],
+    "receptive_post_challenging_criteria_screen_message_list": [
+        "Gedankenprovokariv",
+        "Verstärkt, dass der andere das Problem oder das Problem besitzt",
+        "Konzentriert auf Aktionsschritte anstelle von Informationen",
+        "Spezifisch anstelle von allgemein"
+    ],
+    "receptive_post_challenging_example_screen_message_list": [
+        "Was könnten Sie tun, das es Janet leicht machen würde, ja zu Ihnen zu sagen?",
+        "Was würde es brauchen, damit Sie es mir früher geben könnten als das?"
+    ],
+    "offline_no_downloaded_functionality": "Offline - Keine heruntergeladenen Funktionen",
+    "speech_preferences": "Spracheinstellungen",
+    "language": "Sprache",
+    "audio_accent": "Audioakzent",
+    "current": "Aktuell:",
+    "american_accent": "Amerikanischer Akzent",
+    "indian_accent": "Indischer Akzent",
+    "british_accent": "Britischer Akzent",
+    "australian_accent": "Australischer Akzent",
+    "offline_download_message": "Sie sind offline. Verbinden Sie sich, um Bilder und Audio herunterzuladen.",
+    "failed_to_load_language": "Sprache konnte nicht geladen werden",
+    "language_load_failed": "Laden der Sprache fehlgeschlagen",
+    "download_in_progress": "Ihr Paket wird heruntergeladen...",
+    "download_success": "Download abgeschlossen",
+    "downloading": "Wird heruntergeladen...",
+    "almost_there": "Fast geschafft...",
+    "success": "Erfolg",
+    "error": "Fehler",
+    "info": "Info",
+    "warning": "Warnung",
+    "connected": "Verbunden",
+    "no_internet_connection": "Keine Internetverbindung"
+}

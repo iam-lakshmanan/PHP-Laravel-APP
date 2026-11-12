@@ -1,0 +1,48 @@
+1
+00:00:00,000 --> 00:00:07,000
+Clarifier les enjeux, c'est reformuler la situation de l'autre de manière à l'aider à prendre une décision et à passer à l'action.
+
+2
+00:00:07,000 --> 00:00:14,000
+Ce comportement ne s'utilise que lorsque vous disposez de suffisamment d'informations pour refléter son dilemme,
+
+3
+00:00:14,000 --> 00:00:19,000
+identifier ce qui l'encourage à agir et ce qui, au contraire, le freine.
+
+4
+00:00:19,000 --> 00:00:26,000
+Cela doit se faire de manière neutre, sans jugement, et en laissant un temps de silence pour permettre à l'autre de réfléchir à la suite.
+
+5
+00:00:26,000 --> 00:00:31,000
+Votre rôle est alors de décrire clairement ce qui se passe pour votre interlocuteur,
+
+6
+00:00:31,000 --> 00:00:35,000
+puis de lui faire confiance pour choisir l'action la plus adaptée.
+
+7
+00:00:35,000 --> 00:00:37,000
+Voici quelques exemples.
+
+8
+00:00:37,000 --> 00:00:41,000
+Si je résume, vous êtes vraiment intéressés à l'idée de contribuer au projet,
+
+9
+00:00:41,000 --> 00:00:47,000
+mais en même temps, votre charge de travail est déjà très importante et vous ne voyez pas comment l'intégrer.
+
+10
+00:00:48,000 --> 00:00:53,000
+Votre dilemme, c'est que vous êtes ouverts à l'idée de changer notre façon de travailler,
+
+11
+00:00:53,000 --> 00:00:58,000
+mais vous n'êtes pas certains que les autres membres de votre équipe soient disposés à vous suivre.
+
+12
+00:00:59,000 --> 00:01:07,000
+D'un côté, vous soutenez ma candidature pour ce poste, mais de l'autre, vous ne souhaitez pas jouer un rôle actif dans la décision.
+

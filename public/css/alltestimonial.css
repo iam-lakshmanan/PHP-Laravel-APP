@@ -1,0 +1,423 @@
+.alltestimonial-header span.alltestimonial-title,
+.alltestimonial-header h4.mb-0 {
+    font-size: 38px;
+    font-weight: 600;
+    font-family: "Acumin Variable Concept SemiCondensed", sans-serif;
+}
+.alltestimonial-header h4.mb-0 {
+    color: gray;
+}
+.alltestimonial-header span.alltestimonial-title {
+    color: #00528a;
+}
+button.alltestimonial-list.mt-5 {
+    background-color: #7a7a7a;
+    padding: 9px;
+    border: none;
+    text-decoration: none;
+    color: white;
+}
+.alltestimonial-list a {
+    color: white;
+}
+.alltestimonial-box.p-4 {
+    background-color: #e9e9e9;
+    border-radius: 12px;
+}
+img.allconsultant-testimonial-img {
+    width: 100%;
+    max-width: 75px;
+    height: 75%;
+}
+i.fas.fa-star.custom-star {
+    color: #eff31a;
+    text-shadow: 1px 1px 0 black, -1px 1px 0 black, 1px -1px 0 black,
+        -1px -1px 0 black;
+    border: black;
+    font-size: 11px;
+}
+.advanced-course,
+.beginner-course,
+.dots-container,
+.intermediate-course,
+.dots-container.test-testimonials,
+p.ad-course {
+    transform: translateX(-50%);
+}
+.upcoming-courses-content h2,
+.upcoming-courses-content h3,
+.block-title.no-subtitle,
+.pmi-pdu-breakdown-title,
+.upcoming-courses-sessions-title,
+.courses-info-title,
+h6.upcoming-courses-testimonials-title,
+.testimonial-content span,
+h3.video-title.mt-5 {
+    font-size: 18px;
+}
+.navbar-nav .dropdown-menu,
+.upcoming-events-table td,
+.upcoming-course-link-table th,
+.upcoming-course-link-table td,
+button.dexp-btn-reflect,
+.pmi-pdu-breakdown-content table,
+.all-events-list {
+    border: none;
+}
+.message-course-link,
+.message-course-link p,
+.message-link,
+.message-link p {
+    display: inline;
+}
+.event-all-list .table-container th,
+#section-upcoming-courses-list .table-container th,
+.training-contact-info.align-items-center.upcoming-course-link-table th,
+.course-header-item,
+p.sub-title-course {
+    font-size: 12px;
+}
+p.teamheader-credentials,
+.contact-details h4,
+.contact-details h5,
+.company-news-list-menu span {
+    font-size: 17px;
+}
+.pagination .page-link,
+p.consultant-credentials,
+.upcoming-testimonial-content p,
+.content.text-right p {
+    font-size: 14px;
+}
+h6,
+.h6,
+.scroll-banner .scroll-content h6,
+.scroll-banner .scroll-content p,
+.overlay.course-type-text-container,
+#aboutus-body p,
+.industry-text-content,
+.block-title.no-subtitle,
+#team-content th,
+#team-content td,
+.team-page-links-title,
+.course-header-item,
+p.sub-title-course,
+.row.course-body.container-fluid.mt-2,
+.training-landing-content > p,
+.overlay.training-text-container,
+.container.training-management-course em,
+#section-upcoming-courses-list .table-container .course-name-column,
+.content.text-right.text-justify-custom.mt-3 h3 {
+    text-align: left;
+}
+.overlay.individualcourse-text-container,
+.overlay.training-text-container,
+.form-control,
+.training-contact-info.align-items-center,
+.upcoming-testimonial-content,
+.consultants-courses-content-left,
+.team-link-item,
+div#team-dots-container,
+.video-slider-new,
+.customer-saying-slider,
+.testimonial-list,
+.customer-saying-container,
+.overlay.generic-text-container,
+.overlay.course-type-text-container,
+.aboutindustry-slider,
+.partnerslogo-slider,
+.overlay.course-type-text-container,
+.pagination,
+.upcoming-testimonial-content,
+.consultants-courses-content-left,
+.carousel-item,
+.scroll-banner .customers-list,
+.logos-slider,
+.col-3.search-bar-menu-list,
+.card,
+.award-img-one,
+.award-img-two,
+.dots-container.test-testimonials,
+.dots-container,
+div#dots-container,
+#testimonial_carousel ul,
+.overlay,
+.message-bar,
+.flexMain,
+.social-connect img,
+.industry-recognition-slider,
+.course-message-bar,
+.contact-info.align-items-center,
+.top-menu-bar,
+.container-nav,
+.upcoming-session-course-info {
+    display: flex;
+}
+.company-news-body-summary,
+.testimonial-content p,
+.testimonial-content span,
+.about_us_header,
+h5.menu-info-title,
+ul.working-with-us-menu,
+.upcoming-event-date p,
+.upcoming-event-register a .upcoming-event-name p,
+ul.working-with-us-menu,
+span.bottom-logo-text,
+.industry-text-content,
+.filter-courses-container li.list-unstyled.course-item,
+.company-news-list-menu a,
+#aboutus-body p,
+.company-news-list-menu p,
+.footer-content p,
+span.testimonial-content.list-upcoming p,
+.training-credits-content span,
+.form-control,
+.col-3.course-duration p,
+.top-menu-bar,
+.working-with-us-menu li a,
+.event-all-list .table-container td,
+#section-upcoming-courses-list .table-container td,
+.consultant-specialist p,
+.consultant-specialist-areas p,
+.consultant-specialist h4,
+#our-consultants-section .nav-pills .nav-link,
+.consultant-specialist-areas h4,
+a.consultant-testimonial-toggle,
+.filter-section p,
+.filter-section,
+.consultant-profile h5 a,
+.aboutindustry-text-content p .aboutpartnership-text-content p {
+    font-size: 16px;
+}
+.event-all-list .table-container th,
+#section-upcoming-courses-list .table-container th,
+.event-all-list .table-container td,
+#section-upcoming-courses-list .table-container td,
+#section-upcoming-courses-list .table-container img,
+#section-upcoming-courses-list .table-container img,
+.dots-container,
+h5.beginner-course-title,
+h5.intermediate-course-title,
+h5.advanced-course-title,
+.training-landing-course,
+.training-landing-title h3,
+h4.training-category-title,
+h4.training-category-title a,
+p.course-category-title,
+.training-credits-content span,
+.training-management-course h2,
+.overlay,
+.shadow-effect,
+.bottom-menu-working-with-us h6,
+ul.working-with-us-menu,
+.scroll-content,
+.bottom-menu-location h6,
+.filter-courses-container li.list-unstyled.course-item,
+.row-12.text-left h4,
+.content-menu-title h6,
+.message-bar p,
+.Upcoming-events,
+table.table.table-bordered th,
+.award-section,
+#testimonial_carousel ul li,
+.card,
+.dots-container-new,
+.col-6.top-menu-bar.justify-content-center.align-items-center.m-auto a.nav-link,
+.pmi-pdu-breakdown-content th,
+.pmi-pdu-breakdown-content td,
+.overlay.individualcourse-text-container,
+.generic-content h2,
+.overlay.generic-text-container,
+.dots-container {
+    text-align: center;
+}
+.card-header h4.mb-0,
+h4.search-filter-course-title.mt-5,
+span.allevents-title {
+    font-size: 38px;
+}
+.carousel-button.aboutus-partners-carousel-button-right,
+.carousel-button.aboutus-carousel-button-left,
+.carousel-button.aboutus-carousel-button-right,
+.carousel-button.aboutus-partners-carousel-button-left,
+.list-all-events {
+    color: #7c8787;
+}
+a,
+h6,
+.h6,
+.upcoming-event-register a,
+.upcoming-event-name p,
+ul.working-with-us-menu,
+.scroll-banner .scroll-content p,
+.industry-text-content,
+.search-filter-course h2,
+.contact-details h5 strong,
+a:active,
+a:focus,
+.training-credits-content span,
+.testimonial-content p,
+.testimonial-content span,
+.col-7.course-title a,
+.nav-link,
+.filter-section,
+p.consultant-credentials,
+#our-consultants-section .nav-pills .nav-link,
+.col-6.top-menu-bar.justify-content-center.align-items-center.m-auto a.nav-link,
+p.course-category-title {
+    font-weight: 500;
+}
+img.img-fluid.training-search-icon.page-search-courses,
+.view-testimonial-link,
+.see-more,
+.dot-new,
+.carousel-button,
+.carousel-dot,
+.dot,
+.dots-container.test-testimonials .dot,
+.filter-courses-container li.list-unstyled.course-item,
+.slider-arrow,
+.fa-times {
+    cursor: pointer;
+}
+.Graphical.Content.Menu,
+.event-free-btn,
+.header-container,
+video,
+.overlay.individualcourse-text-container,
+.container.training-management-course table,
+.overlay.training-text-container,
+img.upcoming-courses-img-btn,
+img.training-courses-button,
+img.training-courses-banner.pm-banner,
+img.training-courses-banner,
+img.training-banner,
+.overlay.training-landing-container,
+.training-banner,
+.form-control,
+.industry-slide img,
+#aboutus-body,
+.overlay.aboutus-text-container,
+.partnerslogo-slider,
+.partners-slide img,
+img.managemnt-logo,
+.course-type-banner-image,
+.overlay.course-type-text-container,
+img.img-fluid.training-search-icon.page-search-courses,
+img.img-fluid.training-search-icon.search-courses,
+.training.filter-courses-container,
+.training.filter-page-courses-container,
+.event-all-list .table-container table,
+img.individualcourse-banner-image,
+.consultants-courses-content-left,
+.testimonial-carousel,
+.testimonial-container,
+.aboutindustry-slider,
+#slider > .video-slide-new,
+.testimonials-images img,
+table,
+.col-md-10.d-flex.home-search-box,
+a.event-btn,
+.event-free-btn .event-btn,
+.video-banner,
+img.content-menu-img,
+.logos-slider,
+.industry-text-content,
+.container.video-banner,
+.filter-page-courses-container,
+.video-height,
+.form-control,
+.testimonial-img,
+.col-6.top-menu-bar.justify-content-center.align-items-center.m-auto a.nav-link,
+.container-nav,
+.pmi-pdu-breakdown-content table,
+.overlay,
+.video-testimonial,
+.filter-page-courses-container,
+img.location-btn,
+.paying-us-page table,
+.filter-page-courses-container,
+img.generic-banner-image,
+.video-slider-container-new,
+.overlay.generic-text-container,
+.generic-content table,
+.paying-us-content .paying-us-tab-content-list table,
+#section-upcoming-courses-list .table-container table,
+.filter-courses-container,
+.filter-page-courses-container,
+.consultants-courses-content-left,
+.testimonial-carousel,
+.testimonial-container,
+#team-video-container > .team-video-wrapper,
+#team-video-container > .team-video-wrapper > iframe,
+.industry-section-container,
+.banner-image {
+    width: 100%;
+}
+.bottom-menu-location p,
+.upcoming-course-link-table th,
+.content-menu-title h6,
+.testimonial-content p,
+.testimonial-content span,
+.industry-text-content,
+.bottom-menu-location p a,
+ul.working-with-us-menu,
+.working-with-us-menu li a,
+.bottom-menu-working-with-us h6,
+.bottom-menu-location h6,
+.aboutpartnership-text-content,
+.aboutindustry-text-content,
+h6.text-center.aboutus-title-color,
+.aboutus-title-color,
+#aboutus-body p,
+.aboutindustry-text-content p .aboutpartnership-text-content p,
+.event-all-list .table-container th,
+#section-upcoming-courses-list .table-container th,
+p.upcoming-courses-dates,
+p.upcoming-courses-names,
+.overlay.individualcourse-text-container,
+.overlay.training-text-container,
+.training-credits-content span,
+h4.training-category-title,
+h4.training-category-title a,
+.training-landing-content > p,
+.form-control,
+.col-7.course-title a,
+.col-3.course-duration p,
+.overlay.course-type-text-container,
+.team-links-url a,
+.consultant-specialist p,
+.consultant-specialist-areas p,
+.overlay.generic-text-container,
+.about-us-tab ul#v-pills-tab button,
+.paying-us-tab-ul ul#v-pills-tab button,
+.paying-us-content table td,
+.filter-section p,
+.paying-us-content table table th,
+.scroll-banner .scroll-content p,
+.filter-section,
+p.ad-course {
+    color: #000;
+}
+.upcoming-courses-content h2 strong,
+.dexp_list_02 li::before,
+.scroll-banner .scroll-content p,
+.company-news-content p,
+.award-section {
+    font-size: 20px;
+}
+.carousel-button.aboutus-partners-carousel-button-right,
+.carousel-button.aboutus-carousel-button-left,
+.carousel-button.aboutus-carousel-button-right,
+.carousel-button.aboutus-partners-carousel-button-left {
+    font-size: 1.4rem;
+}
+a.view-all-content,
+a.consultant-testimonial-seemore,
+a.consultant-testimonial-toggle,
+a.view-testimonial-link {
+    color: #ffffffa3;
+}
+.company-news-content span {
+    font-size: 19px;
+}

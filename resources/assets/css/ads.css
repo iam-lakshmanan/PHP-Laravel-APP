@@ -1,0 +1,77 @@
+/* General Advertisement Content */
+.canda-ad-content {
+    position: absolute;
+    text-align: center;
+    color: white;
+}
+.canada-ad-content-one {
+    top: 30%;
+    left: 20%;
+    transform: translateY(-50%);
+}
+
+.canada-ad-content-one h6 {
+    font-size: 26px;
+    color: #6dd5f5;
+    letter-spacing: 2.5px;
+}
+
+.canada-ad-content-one p {
+    font-size: 16px;
+}
+.canada-ad-content-two {
+    top: 43%;
+    left: 10%;
+    transform: translateY(-50%);
+}
+.canada-ad-content-two h6 {
+    font-size: 26px;
+    color: #00528a;
+    letter-spacing: 2.5px;
+}
+
+.canada-ad-content-two p {
+    font-size: 16px;
+    text-align: left;
+}
+
+.jobs-learn-more {
+    width: 185px;
+}
+img.canada-learn-more {
+    width: 160px;
+}
+.canada-ad-btn {
+    margin-right: 50%;
+}
+
+
+@media screen and (min-width: 320px) and (max-width: 1155px) {
+.jobs-ad-btn {
+    padding: 5px 9px;
+    font-size: 12px;
+    margin-top: -13px;
+}
+.canada-ad-content-one p {
+    font-size: 12px;
+    margin-bottom: 3px;
+}
+.canada-ad-content-one h6 {
+	font-size: 17px;
+}
+.canada-ad-content-one {
+    top: 32%;
+    left: 59px;
+}
+.canada-ad-content-two p {
+	font-size: 10px;
+}
+.canada-ad-content-two h6 {
+	font-size: 17px;
+}
+.canada-ad-btn {
+	padding: 9px 9px;
+	font-size: 11px;
+	margin-left: -9px;
+}
+}

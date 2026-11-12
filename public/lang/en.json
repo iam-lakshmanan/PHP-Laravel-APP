@@ -1,0 +1,660 @@
+{
+  "exercising_influence_footer_hint": "This app is intended to be used during our course Exercising Influence®: Building Relationships and Getting Results and as a post-course job aid. If you wish to find out more about our course, please visit",
+  "exercising_influence_link_text": "www.exercisinginfluence.com",
+  "influence_tactics_behaviors": "Influence Tactics and Behaviors",
+  "influence_framework": "Influence Framework",
+  "framework_screen_message": "The Influence Framework provides the basis for planning your approach to any influence situation. By considering each aspect of the framework, you will be prepared to develop a plan for achieving success.",
+  "influence_objective": "Influence Objective",
+  "behavior_practice": "Behavior Practice",
+  "access_training": "Access Training",
+  "hello": "Hi",
+  "enter": "Enter",
+  "welcome_message": "Welcome to Exercising Influence",
+  "exercising_influence": "Exercising Influence",
+  "influence_tactics": "Influence Tactics",
+  "expressive": "Expressive",
+  "sends_a_message_to_other": "Sends a message to the other",
+  "Receptive": "Receptive",
+  "Receptive_message": "Draws information,ideas or action from the others",
+  "disengage": "Disengage",
+  "disengage_message": "Live to influence another day.Disengage is one example of indirect influence",
+  "results": "Results",
+  "relationship": "Relationship",
+  "context": "Context",
+  "approach": "Approach",
+  "influence_object_criteria": "Influence Objective Criteria",
+  "influence_object_criteria_message": "Influence objectives are short-term. They are designed to enable you to measure your progress in real time, enabling you to change your approach as needed. This set of criteria (below) will help you establish a clear and powerful influence objective.",
+  "flexible": "Flexible",
+  "observable": "Observable",
+  "courageous": "Courageous",
+  "useful": "UseFul",
+  "supportive": "Supportive",
+  "developing_message": "Developing a clear and compelling influence objective enables you to focus on the result and track whether you are getting closer to it or further away; if you are not moving toward your objective, you may choose to take a step back (temporary disengagement) or adopt a different approach.",
+  "behaviour_practice": "Behavior Practice",
+  "select_behaviour": "Select Behavior",
+  "behaviour_hint": "Click and Select Receptive Behavior",
+  "behaviour_expressive_hint": "Choose an expressive behavior",
+  "behaviour_receptive_hint": "Choose a receptive behavior",
+  "switch_to_receptive": "Switch to Receptive",
+  "switch_to_expressive": "Switch to Expressive",
+  "behaviour_message": "Choose an Receptive behavior from the dropdown to see sentence starters and toggle between Expressive and Receptive behaviors.",
+  "ask_open_ended_questions": "Ask Open-ended Questions",
+  "behaviour_ask_open_ended_questions": "Behavior: Ask Open-ended Questions",
+  "ask_open_ended_example_screen_title": "Query the other party in a way that does not imply a right answer.",
+  "receptive_ask_open_ended_example_screen_message_list": [
+    "“What are your concerns about involving Janet?”",
+    "“How could we get the key information to people in time for the meeting?”"
+  ],
+  "the_questions_are": "The questions are:",
+  "receptive_ask_open_ended_criteria_screen_message_list": [
+    "Stated so that they cannot be answered in one word (yes, no, maybe, etc.)",
+    "Neutrally phrased, do not imply a right or wrong answer rather than to give a simplified or evasiveanswer",
+    "Designed to open a possible pathway to the influence objective"
+  ],
+  "draw_out": "Draw Out",
+  "check_understanding": "Check Understanding",
+  "test_implications": "Test Implications",
+  "identify_with_other": "Identify with Other",
+  "disclose": "Disclose",
+  "clarify_issue": "Clarify Issue",
+  "pose_challenging_questions": "Pose Challenging Questions",
+  "suggest": "Suggest",
+  "express_needs": "Express Needs",
+  "offer_reasons": "Offer Reasons",
+  "refer_to_goals_and_benefits": "Refer to Goals and Benefits",
+  "offer_incentives": "Offer Incentives",
+  "describe_consequences": "Describe Consequences",
+  "envision": "Envision",
+  "encourage": "Encourage",
+  "tell": "Tell",
+  "tell_message": "Communicate the desired action",
+  "tell_message_list": [
+    "Builds relationships through clarity of intention",
+    "Gets results through direct action"
+  ],
+  "behaviours": "Behaviors",
+  "sell": "Sell",
+  "sell_message": " Convince the other to commit to action",
+  "sell_message_list": [
+    "Builds relationships through knowledge",
+    "Get results through conviction"
+  ],
+  "negotiate": "Negotiate",
+  "negotiate_message": "Give others a vested interest in taking action",
+  "negotiate_message_list": [
+    "Builds relationships through fairness",
+    "Gets results through agreement"
+  ],
+  "enlist": "Enlist",
+  "enlist_message": "Create enthusiasm and alignment",
+  "enlist_message_list": [
+    "Builds relationships through confidence",
+    "Gets results through leadership"
+  ],
+  "inquire": "INQUIRE",
+  "inquire_message": "Get information or involvement; guide the other’s thinking",
+  "receptive_inquire_screen_message_list": [
+    "Builds relationships through involvement",
+    "Gets results through commitment"
+  ],
+  "listen": "LISTEN",
+  "listen_message": "Learn about, reinforce, or expand the other’s thinking",
+  "listen_message_list": [
+    "Builds relationships through respect",
+    "Gets results through information"
+  ],
+  "attune": "ATTUNE",
+  "attune_message": "Build trust or increase openness",
+  "receptive_attune_screen_message_list": [
+    "Builds relationships through trust",
+    "Gets results through alliance"
+  ],
+  "facilitate": "FACILITATE",
+  "facilitate_message": "Help the other to take responsibility for actions",
+  "receptive_facilitate_screen_message_list": [
+    "Builds relationships through offering help",
+    "Gets results through responsibility"
+  ],
+  "receptive_influence": "Receptive Influenece",
+  "disengage_screen_title": "Disengage: Live to influence another day",
+  "disengage_subtitle_1": "At times during an influence engagement, the situation may call for a break or an alternative influence tactic. For example, when you recognize that no progress is being made, you can disengage in such a way that others understand you intend to continue pursuing your objective after the break.",
+  "disengage_subtitle_2": "In addition to disengaging, there are other ways of influencing people indirectly, including modeling, demonstrating, storytelling, sharing books, links, and articles, building coalitions and organizations that can lobby for important causes, and participating in the political process.",
+  "influence_framework_msg_1": "What is your vision of success? What role will the other person play in it?",
+  "influence_framework_msg_2": "What are the needs that underlie your vision? For you? For the organization? For the person you are influencing?",
+  "influence_framework_msg_3": " What specific, long-term, and short-term goals do you have or the influence opportunity?",
+  "influence_framework_msg_4": "What are your criteria for success? How will you know you have achieved the results you are aiming for?",
+  "influence_framework_msg_5": "What alternative outcomes might satisfy the underlying needs and achieve equivalent results?",
+  "influene_frameWork_subtitle": "Results are the longer-term goals, specific influence, objectives and issues; and what the influencer hopesto achieve.",
+  "relationship_screen_subtitle": "Relationship includes the past history, present state, and anticipated future for the working relationship.",
+  "relationship_screen_msg_1": "What is the history of your (or you teams) influence relationship (in both directions) with this person or group?",
+  "relationship_screen_msg_2": "What is the current level of trust? Why?",
+  "relationship_screen_msg_3": "What assumptions do each of you hold about the other? How will you test them? How might theyaffect the outcome?",
+  "relationship_screen_msg_4": "What is the power balance between you and the other?",
+  "relationship_screen_msg_5": "What are the current or continuing issue, in the relationship regardless of whether they are directly related to this influence opportunity?",
+  "context_screen_subtitle": "The context is made up of individual and organization needs, preferences, attitudes, and priorities, as well as the impact of national, regional, professional, or organizational culture. The context also includes trends, events, and issues in the external environment.",
+  "individual": "Individual",
+  "organizational": "Organizational",
+  "cultural": "Cultural",
+  "external_trends": "External Trends & Issues",
+  "approach_screen_subtitlle": "Once you have examined the results, relationship, and context for a specific influence opportunity, you can then identify the tactics that will enable you to choose the appropriate behaviors. Behaviors are the interpersonal communication tools, both Expressive and Receptive, used to achieve results.",
+  "approach_screen_msg_1": " Given your analysis of the situation, what influence tactics are likely to be most effective?",
+  "approach_screen_msg_2": "What are the best specific behaviors to achieve those results?",
+  "flexible_screen_subtitle_1": "Able to be adjusted as needed",
+  "flexible_screen_subtitle_2": "Can be altered, if the context requires it, to another way of meeting, your underlying needs.",
+  "flexible_screen_subtitle_3": "“Cary will agree to give me online access to the sales information system, or anything that will get me the current sale figures on a daily basis.”",
+  "flexible_screen_first_title": "Flexible:",
+  "flexible_screen_last_title": "Inflexible",
+  "flexible_screen_subtitle_4": "“Cary will give me online access to current sales information.”",
+  "observable_screen_subtitle_1": "In the near term",
+  "observable_screen_subtitle_2": "Results can be noticed during the influence opportunity...",
+  "observable_screen_subtitle_3": "“John will agree by the end of our meeting to take on the responsibility for coordinating with the vendor.”",
+  "observable_screen_subtitle_4": "“John will be more interested in the project.”",
+  "observable_screen_first_title": "Observable:",
+  "observable_screen_last_title": "Not Observable:",
+  "courageous_screen_subtitle_1": "Ambitious; possible, but a stretch",
+  "courageous_screen_subtitle_2": "The influence objective should be challenging in order to make sure that the effort and risk involved are worthwhile. If it does not require some courage to achieve, you are probably not taking full advantage of the opportunity.",
+  "courageous_screen_subtitle_3": "Kumar will commit three people to my project.",
+  "courageous_screen_first_title": "Optimistic:",
+  "courageous_screen_subtitle_4": "“Kumar will commit three people to my project.”",
+  "courageous_screen_second_title": "Faint-hearted:",
+  "courageous_screen_subtitle_5": "“Kumar will agree to consider participating in my project.”",
+  "courageous_screen_third_title": "Audacious and unrealistic:",
+  "courageous_screen_subtitle_6": "“Kumar will commit his entire budget to my project.”",
+  "useful_screen_subtitle_1": "Meet the underlying need",
+  "useful_screen_subtitle_2": "Will satisfy your need completely—and is focused on your most important need; the reason you are influencing the other person.",
+  "useful_screen_first_title": "Meet the underlying need:",
+  "useful_screen_subtitle_3": "“Megan will agree to increase my budget to pay for the resources I need.”",
+  "useful_screen_last_title": "Not focused on the underlying need:",
+  "useful_screen_subtitle_4": "“Megan will admit that she was unfair in allocating budget money.”",
+  "supportive_screen_subtitle_1": "Aligned with longer-term strategic goals",
+  "supportive_screen_subtitle_2": "Influence objectives are short-term but to be effective, they need to be aligned with longer-term strategic goals in order to achieve significant results.",
+  "supportive_screen_first_title": "Aligned:",
+  "supportive_screen_subtitle_3": "“Peggy will agree to take up our issue with the Planning Meeting?”",
+  "supportive_screen_last_title": "Non-aligned:",
+  "supportive_screen_subtitle_4": "“Peggy will agree to go around the Planning Committee just this once.”",
+  "ask_open_ended_question_list": [
+    "\"What concerns you about…?\"",
+    "\"What else might work?\"",
+    "\"What ideas do you have about…?\"",
+    "\"What other ideas do you have?\"",
+    "\"What do you think about…?\"",
+    "\"How might we…?\"",
+    "\"What should we do about…?\""
+  ],
+  "draw_out_questions_list": [
+    "You mentioned… Give me an example.",
+    "Give me an idea of how would work.",
+    "Say more about that…",
+    "I’d like to be clearer about…",
+    "Tell me more about…"
+  ],
+  "check_understanding_questions_list": [
+    "So from your point of view…?",
+    "Let me check my understanding…",
+    "Do I understand you to be saying…?",
+    "So you think (hope, feel, are concerned about, believe, recommend, etc.)…?",
+    "You’re saying that…?"
+  ],
+  "test_implications_questions_list": [
+    "From what you said, I’m assuming… is that accurate?",
+    "You seem concerned (worried, hesitant, etc.)… could that be because of X?",
+    "I’m wondering if you might be concerned about…?",
+    "If you do X, you’re concerned about Y… is that right?"
+  ],
+  "identify_with_other_questions_list": [
+    "Under the circumstances, I might be concerned about X. Is that an issue here?",
+    "In your place, I might…",
+    "I feel (have felt) that way when…",
+    "I know you are (rushed, hassled, very busy, etc.) right now…",
+    "If I were you, I might be feeling (thinking, concerned about, etc.) right now…"
+  ],
+  "disclose_statements_list": [
+    "I’m uncomfortable (worried, concerned, feeling badly, etc.) about…",
+    "I realize I said something (wrong, hurtful, etc.) earlier…",
+    "I could really use your help on…",
+    "I’m uncertain about…",
+    "I was wrong about…",
+    "I want to tell you why I’m doing this… (followed by statement that reveals your problem, motivations, etc., not rationale)",
+    "You’re right. I should have…"
+  ],
+  "clarify_issues_statements_list": [
+    "What’s moving you forward is… and what is holding you back is…",
+    "In summary, the issues for you are…",
+    "I understand that you (want, hope, expect, intend to, etc.) X and yet…",
+    "On the one hand… and on the other…",
+    "So your dilemma (problem, bind, concern, etc.) is…"
+  ],
+  "pose_challenging_questions_list": [
+    "What else might you do?",
+    "What options are you considering?",
+    "What could you do that would…?",
+    "What will it take for you to…?",
+    "How might you go about doing that?",
+    "How can you (we) make this work?",
+    "What do you need from me so that you can…?"
+  ],
+  "suggest_statements_list": [
+    "I suggest (propose, recommend, etc.) that…",
+    "What if you (I, we) were to…?",
+    "Here’s an idea. We (you, I) could…",
+    "One possibility is…",
+    "How about this? We (you, I)…"
+  ],
+  "express_needs_statements_list": [
+    "I need (want, have to have, etc.) …",
+    "Here’s what I would like…",
+    "It’s important to me that…",
+    "I’d like you to…",
+    "It would help me if you would…"
+  ],
+  "offer_reasons_statements_list": [
+    "Here’s why…",
+    "The reasons are…",
+    "My analysis shows…",
+    "We should be aware that…",
+    "The facts are that…",
+    "If… then… (logical conclusion)"
+  ],
+  "goals_and_benefits_statements_list": [
+    "This supports our goals of…",
+    "The benefits to you are…",
+    "This could help you achieve…",
+    "Our common interests are…",
+    "The benefits for the organization are…"
+  ],
+  "offer_incentives_statements_list": [
+    "If you will (can, agree to) do this, I will…",
+    "In exchange, I will…",
+    "Here’s what I could do to make it work. I will…",
+    "It’s only fair that I…",
+    "If you agree, I will make it easier by…"
+  ],
+  "describe_consequences_statements_list": [
+    "If you don’t (won’t, can’t)… I will (won’t)…",
+    "I need to let you know the consequences of…",
+    "Here is what we face if you can’t (won’t)…",
+    "To be fair, I need to let you know what could happen if you don’t…",
+    "You may not be aware of the consequences if we don’t… (then explain)"
+  ],
+  "envision_statements_list": [
+    "I can see us…",
+    "I imagine (envision)…",
+    "Here’s what I believe could happen…",
+    "Picture this…",
+    "It’s a year from now, and we…"
+  ],
+  "encourage_statements_list": [
+    "I know that we can…",
+    "I believe that as a team…",
+    "You and I can make this work…",
+    "I know that you are capable of…",
+    "I remember when you…"
+  ],
+  "context_individual": "Context: Individual",
+  "context_individual_message_list": [
+    "What are the relevant values of the other?",
+    "What goals are important to them?",
+    "What benefits might the achievement of my influence objective provide for them?",
+    "What common or conflicting vested interests are important in the situation? What does each of us have to gain or lose?",
+    "What are the important current issues that have an impact on this person?",
+    "What issues could be raised by my influence objective?",
+    "How would you describe their communication or work style? How do they generally prefer to be approached?"
+  ],
+  "context_organizational": "Context: Organizational",
+  "context_organizational_message_list": [
+    "How does the business strategy of the organization relate to the subject at hand? Are the results you envision a good fit for the organizational strategy and goals? How could you improve the fit?",
+    "How will the organization’s structure and process affect your influence approach? Is your approach out of the norm?",
+    "Where does the issue stand in the ranking of organizational priorities?",
+    "How might the formal or informal power structures in the organization affect the outcome of your influence action?",
+    "Who are the stakeholders? How will you involve them?"
+  ],
+  "context_cultural": "Context: Cultural",
+  "context_cultural_message_list": [
+    "What are the cultural values (organizational, professional, national, or ethnic) that are relevant to this issue?",
+    "What are the norms (formal or informal ground rules) that you should be aware of?",
+    "What are some of the cultural assumptions that relate to the situation?",
+    "What are the usual cultural practices or rituals that might be useful in this situation?",
+    "Are there any cultural taboos that could derail my approach?"
+  ],
+  "context_external_trends_issues": "Context: External Trends & Issues",
+  "context_external_trends_and_issues_message_list": [
+    "What is going on right now in the larger systems of which we are a part that could have an impact on your influence opportunity?",
+    "What specific issues are raised for you and the other relative to this influence situation?",
+    "What should you do to manage these issues regarding their importance, fit, or priority?"
+  ],
+  "behaviour_suggest": "Behavior: Suggest",
+  "offer_an_idea_section": "Propose an idea or recommendation.",
+  "behaviour_suggest_message_list": [
+    "“I suggest (propose, recommend, etc.) that...”",
+    "“What if we (you, I) were to...”",
+    "“Here’s an idea. We (you, I) could...”",
+    "“One possibility is...”",
+    "“How about this? We (you, I) ...’"
+  ],
+  "criteria": "Criteria",
+  "examples": "Examples",
+  "starter": "Starter",
+  "behaviour_examples": "Behavior Examples",
+  "example_screen_header_message": "Offer an idea or recommendation.",
+  "example_screen_subtitle_message_1": "“I suggest that you ask Janet to chair the task force.”",
+  "example_screen_subtitle_message_2": "“Getting the data to me by Friday afternoon would work well.”",
+  "behaviour_criteria": "Behavior Criteria",
+  "behaviour_criteria_screen_title": "The suggestion is:",
+  "behaviour_criteria_message_list": [
+    "stated clearly and unambiguously",
+    "relevant to the issue at hand",
+    "stated in a language that makes sense to the other",
+    "related to an issue in which the other is interested"
+  ],
+  "behaviour_express_needs": "Behavior: Express Needs",
+  "behaviour_express_needs_subtitle": "State directly what you want or need to happen.",
+  "behaviour_express_needs_message_list": [
+    "“I need (what, have to have, etc...)”",
+    "“Here’s what I would like...”",
+    "“It’s important to me that...”",
+    "“I’d like you to...”",
+    "“It would help me if you would...”"
+  ],
+  "behaviour_express_criteria_screen_title": "The need expressed is:",
+  "behaviour_criteria_express_needs_message_list": [
+    "stated clearly and unambiguously",
+    "own (\"I need\" rather than \"we need\" unless you are the spokesperson for a group)",
+    "no more than a reasonable stretch, given the relationship",
+    "stated matter-of-factly rather than in an emotional or threatening way"
+  ],
+  "behaviour_express_nexamples_message_list": [
+    "“It is important to me that Janet be included in this.”",
+    "“I need your data by Friday at 3:00 PM.”"
+  ],
+  "behaviour_offer_reason": "Behavior: Offer Reasons",
+  "behaviour_offer_reason_screen_subtitle": "Explain why you believe the action is correct or needed.",
+  "behaviour_offer_reason_screen_message_list": [
+    "“Here’s why...”",
+    "“The reasons are...”",
+    "“My analysis shows...”",
+    "“We should be aware that...”",
+    "“The facts are that...”",
+    "“If...then...” (logical conclusion)”"
+  ],
+  "behaviour_offer_criteria_screen_title": "The reasons are:",
+  "behaviour_offer_criteria_message_list": [
+    "stated clearly",
+    "supportive of your suggestion or explanatory about your need",
+    "significant to the other (rather than most convincing to you)",
+    "few in number/high in quality"
+  ],
+  "behaviour_offer_reason_example_title": "Explain why you believe the action is correct or needed.",
+  "behaviour_offer_reason_screen_subTitle_1": " “Janet would like more visibility for her department around these issues.”",
+  "behaviour_offer_reason_screen_subTitle_2": " “If we can get your data by Friday. I’ll be able to get the document printed in time for our Tuesday meeting.”",
+  "behaviour_refer_goals_benifit_title": "Behavior: Refer to Goals & Benefits",
+  "behaviour_refer_goals_benifit_subtitle": "Show how your suggestion or expressed need can provide benefits to the other or the organization",
+  "refer_goals_and_benefits_screen_message_list": [
+    "“This supports our goal of...”",
+    "“The benefits to you are...”",
+    "“This could help you achieve...”",
+    "“Our common interests are...”",
+    "“The benefits for the organization are...”"
+  ],
+  "refer_goals_benifits_example_screen_title": "Show how your suggestion or expressed need can provide benefits to the other or the organization.",
+  "refer_goals_and_benefits_example_message_list": [
+  "“Enlisting Janet will help us get senior leadership support.”",
+  "“I know we both want this meeting to be successful. Having the package ready would really help.”"
+],
+  "refer_goals_and_benifit_criteria_title": "The benefits or goals are:",
+  "refer_goals_and_benefits_criteria_message_list": [
+    "Understood and acknowledged by the other",
+    "Important and relevant to the situation”",
+    "Specific and compelling rather than general”",
+    "Few in number, high in quality”",
+    "Positive and beneficial to both the other person and the organization”"
+  ],
+  "behaviour_offer_incentives": "Behavior: Offer Incentives",
+  "behaviour_offer_incentive_screen_subtitle": "Provide the other party with a fair exchange for taking the action.",
+  "offer_incentive_screen_message_list": [
+    "“If you will (can, agree to) do this, I will...”",
+    "“In exchange, I will...”",
+    "“Here’s what I could do to make it work. I will...”",
+    "“It’s only fair that I... (make an offer of help)”",
+    "“If you agree, I will make it easier by...”"
+  ],
+  "offer_incentive_example_screen_message_list": [
+    "“If you’ll support me on this, I’ll be willing to make the approach to Janet.”",
+    "“If you can commit to getting the data to me by Friday, I’ll be glad to do the formatting.”"
+  ],
+  "offer_incentive_criteria_title": "The incentives are:",
+  "offer_incentive_criteria_message_list": [
+    "Within your control",
+    "Interesting to the other party",
+    "ones you will be willing to deliver",
+    "A fair exchange for what you want from the other"
+  ],
+  "behaviour_describe_consequences": "Behavior: Describe Consequences",
+  "behaviour_describe_screen_subtitle": "Educate the other party about consequences for not taking the action.",
+  "describe_consequence_message_list": [
+    "“If you don’t (won’t, can’t) ... I will (won’t)...”",
+    "“I need to let you know the consequences of...”",
+    "“Here’s what we face if you can’t (won’t)...”",
+    "“To be fair, I need to let you know what could happen if you don’t...”",
+    "“You may not be aware of the consequences if we don’t...” (then explain)"
+  ],
+  "behaviour_describe_example_screen_message_list": [
+    "‘If you don’t include them in the planning, I anticipate that they will not be there when we need her help in implementation.’",
+    "“If you can’t get the data to me by Friday, I’ll have to postpone the meeting and delay the project further.”"
+  ],
+  "describe_consequence_screen_title": "Consequences are:",
+  "describe_consequence_criteria_message_list": [
+    "Within your control or clearly understood if exerted by others",
+    "Relevant to the other",
+    "Appropriate given the importance of the situation",
+    "Timely; a fair warning of action if your need is not met or suggestion not acted upon"
+  ],
+  "behaviour_envision": "Behavior: Envision",
+  "behaviour_envision_title": "Help the other party to imagine the positive result of successful action.",
+  "enlist_envision_screen_message_list": [
+    "“I can see us...”",
+    "“I imagine (envision)...”",
+    "“Here’s what I believe could happen...”",
+    "“Picture this...”",
+    "“It’s a year from now and we...”"
+  ],
+  "enlist_envision_screen_example_message_list": [
+    "“I can see us presenting the results to the executive staff as a coordinated, committed team, and getting their support quickly.”",
+    "“This meeting is going to be a great success: we’ll have everything we need at hand.”"
+  ],
+  "the_vision_is": "The vision is:",
+  "enlist_envision_criteria_screen_message_list": [
+    "Clear and descriptive, focused on where we are going, not how to get there",
+    "Positive, optimistic, and set in the future after success",
+    "Inclusive; others can see themselves in the picture",
+    "Based on common goals, values, and benefits"
+  ],
+  "behaviour_encourage": "Behavior: Encourage",
+  "behaviour_encourage_screen_title": "Express confidence in the other’s ability to take action.",
+  "enlist_encourage_screen_message_list": [
+    "“I know that we can...”",
+    "“I believe that as a team...”",
+    "“You and I can make this work...”",
+    "“I know that you are capable of...”",
+    "“I remember when you…”"
+  ],
+  "enlist_encourage_example_screen_message_list": [
+    "“Remember when you presented to the executive staff last year and they were so impressed with your enthusiasm? You can do that again.”",
+    "“With your help, this meeting is going to be a great success: we’ll have everything we need right at hand.”"
+  ],
+  "the_encouragement_is": "The encouragement is:",
+  "enlist_encourage_criteria_screen_message_list": [
+    "Expressive of genuine confidence in the other’s ability to succeed",
+    "Expressive of your own enthusiasm for the action",
+    "An invitation to be part of the team",
+    "Reflective of a stretch goal, but not too far out of reach"
+  ],
+  "behaviour_draw_out": "Behavior: Draw Out",
+  "behaviour_draw_out_title": "Build on information that has been offered to deepen or extend it",
+  "receptive_inquire_draw_out_message_list": [
+    "“Tell me more about...”",
+    "“I’d like to be clearer about...”",
+    "“Say more about that...”",
+    "“Give me an idea of how that would work.”",
+    "“You mention... Give me an example.”"
+  ],
+  "receptive_inquire_draw_out_example_screen_message_list": [
+    "“You mentioned that you had some doubts about Janet’s interest in this—say more about that.”",
+    "“What other possibilities can you think of?”"
+  ],
+  "receptive_draw_out_criteria_screen_title": "Drawing-out statements or questions are.",
+  "receptive_inquire_draw_out_criteria_screen_message_list": [
+    "Based on something the other has said",
+    "Neutrally phrased",
+    "Focused on a part of the other’s communication that holds promise of benefits for both",
+    "Brief and simple"
+  ],
+  "behaviour_check_understanding": "Behavior: Check Understanding",
+  "behaviour_check_understanding_screen_title": "Paraphrase your understanding of what the other has said and ask for agreement.",
+  "receptive_listen_check_understanding_message_list": [
+    "“You’re saying that …”",
+    "“So, you think (hope, feel, are concerned about, believe, recommend, etc.)...”",
+    "“Do I understand you to be saying…”",
+    "“Let me check my understanding…”",
+    "“So, from your point of view…”"
+  ],
+  "receptive_listen_check_understanding_example_screen_message_list": [
+    "“So you recommend that we approach her together.”",
+    "“You’re suggesting that we get your manager to approve funds for a contractor to help with this. Is that right?”"
+  ],
+  "receptive_checkunderStanding_screen_subtitle": "The paraphrasing is:",
+  "receptive_listen_check_understanding_criteria_screen_message_list": [
+    "Reasonably accurate (it does not have to be exact; the other will correct you and you will get credit for making the effort)",
+    "Relatively brief",
+    "Focused on key points relevant to both you and the other",
+    "Neutral; does not express your opinion either verbally or nonverbally"
+  ],
+  "behaviour_test_implications": "Behavior: Test Implications",
+  "behaviour_test_implication_screen_subtitle": "State your inference about what the other means and ask or wait for agreement or correction.",
+  "test_implications_screen_message_list": [
+    "“If you do X, you’re concerned about Y - is that right?”",
+    "“I’m wondering if you might be concerned about...?”",
+    "“You seem concerned (worried, hesitant, etc.)... could that be because of X?”",
+    "“Under the circumstances, I might be concerned about X. Is that an issue here?”",
+    "“From what you said, I’m assuming... Is that accurate?”"
+  ],
+  "the_implications_are": "The implications are:",
+  "receptive_test_implication_criteria_message_list": [
+    "Ones that do not reflect badly on the other",
+    "Stated matter-of-factly (reasonable people might be concerned about this)",
+    "Within the scope of what is considered discussable in your organization (unless trust is extremely high)",
+    "Reasonable inferences, given the other’s statement"
+  ],
+  "receptive_test_implication_example_message_list": [
+    "“You seem reluctant to initiate this; could that be related to your team’s recent run-in with her?”",
+    "“I’m thinking you might be concerned about the quality of the finished report. Is that the case?”"
+  ],
+  "behaviour_identify_with_other": "Behavior: Identify with Other",
+  "behaviour_identify_with_other_screen_subtitle": "State emphatically how the other’s situation could be affecting them.",
+  "receptive_attune_identify_with_other_screen_message_list": [
+    "“If I were you, I might be feeling (thinking, concerned about, etc.) ... right now...”",
+    "“I know you are (rushed, hassled, very busy, etc.) these days...”",
+    "“I feel (have felt) that way when...”",
+    "“In your place, I might...”",
+    "“Under the circumstances, I might be concerned about X. Is that an issue here?”"
+  ],
+  "the_identification_is": "The identification is:",
+  "receptive_attune_identify_with_other_criteria_screen_message_list": [
+    "Perceived as genuine (and is)",
+    "Focused on something the other considers important",
+    "Relevant to the issue discussion",
+    "Stated in a matter-of-fact way and does not suggest a solution"
+  ],
+  "receptive_attune_identify_with_other_example_screen_message_list": [
+    "“If I were you, I might be feeling a little battle-weary right now.”",
+    "“When I was in your shoes, I sometimes felt overwhelmed by the complexity of the task.”"
+  ],
+  "receptive_disclose": "Behavior: Disclose",
+  "receptive_disclose_screen_subtitle": "Offer information about yourself that is relevant and that cost you something to acknowledge.",
+  "receptive_disclose_screen_message_list": [
+    "“I was wrong about...”",
+    "“I could really use your help on...”",
+    "“I’m uncertain about...”",
+    "“You’re right. I should have...”",
+    "“I realize I said something... (wrong, hurtful, etc.) earlier...”",
+    "“I’m uncomfortable (worried, concerned, feeling badly, etc.) about...”",
+    "“I want to tell you why I’m doing this...” (To be followed by a statement that reveals your problem, motivation, etc., not your rationale.)”"
+  ],
+  "the_disclosure_is": "The disclosure is:",
+  "receptive_disclose_criteria_message_list": [
+    "Perceived as genuine (and is)",
+    "One that costs you something to acknowledge",
+    "Relevant to the issue under discussion",
+    "Appropriate to the level of the discussion but moves it toward greater openness"
+  ],
+  "receptive_disclose_example_screen_message_list": [
+    "“I was reluctant to bring this up with you, knowing that your working relationship with Janet has not been an easy one.”",
+    "“I’m really feeling awkward about pushing this; if I hadn’t been so slow on the front end, we might be farther along now.”"
+  ],
+  "clarify_issues": "Clarify Issues",
+  "post_challenging_questions": "Post Challenging Questions",
+  "behaviour_clarify_issues": "Behavior: Clarify Issues",
+  "behaviour_clarify_issues_subtitle": "Assist the other in confronting a situation by reflecting important or underlying issues.",
+  "receptive_facilitate_clarify_issues_screen_message_list": [
+    "“So, your dilemma (problem, bind, concern, etc..) is...”",
+    "“On the one hand... and on the other...”",
+    "“I understand that you (want, hope, expect, intend to, etc...) X and yet...”",
+    "“In summary, the issues for you are...”",
+    "“What’s moving you forward is... and what is holding you back is...”"
+  ],
+  "the_clarification_is": "The clarification is:",
+  "receptive_facilitate_clarify_issues_criteria_message_list": [
+    "A fair summary of the conversation so far",
+    "Focused on both what is holding the other back and what is moving them toward action",
+    "Perceived to be free of your opinion or bias",
+    "Stated in a matter-of-fact way rather than in a counselling style"
+  ],
+  "receptive_facilitate_clarify_issues_example_screen_message_list": [
+    "“It seems you have a dilemma here—on the one hand, you want to improve the relationship and get her support; on the other, you don’t believe that she would be cooperative if you were to approach her.”",
+    "“I understand that you want to be involved and do your part but are not sure how to make it work with your schedule.”"
+  ],
+  "behaviour_post_challenging_questions": "Behavior: Pose Challenging Questions",
+  "postCallenging_screen_subtitle": "Stimulate the other to identify actions that they can take to deal with a difficult issue.",
+  "receptive_post_challenging_screen_message_list": [
+    "“How might you go about doing that?”",
+    "“What could you do that would...?”",
+    "“What would it take for you to...?”",
+    "“What do you need from me so that you can...?”",
+    "“What options are you considering?”",
+    "“What else might you do?”",
+    "“How can you make this work?”"
+  ],
+  "receptive_post_challenging_criteria_screen_message_list": [
+    "Thought-provoking",
+    "Reinforces that the other owns the problem or issue",
+    "Focused on action steps rather than information",
+    "Specific rather than general"
+  ],
+  "receptive_post_challenging_example_screen_message_list": [
+    "“What could you do that might make it easy for Janet to say yes to you?”",
+    "“What would it take for you to be able to get it to me sooner than that?”"
+  ],
+  "offline_no_downloaded_functionality": "Offline - No Downloaded Functionality",
+  "speech_preferences": "Speech Preferences",
+  "language": "Language",
+  "audio_accent": "Audio Accent",
+  "current": "Current:",
+  "american_accent": "American Accent",
+  "indian_accent": "Indian Accent",
+  "british_accent": "British Accent",
+  "australian_accent": "Australian Accent",
+  "offline_download_message": "You're offline. Connect to download images and audio.",
+  "failed_to_load_language": "Failed to load language",
+  "language_load_failed": "Language load failed",
+  "download_in_progress": "Downloading Your Pack...",
+  "download_success": "Download completed",
+  "downloading": "Downloading...",
+  "almost_there": "Almost there...",
+  "success": "Success",
+  "error": "Error",
+  "info": "Info",
+  "warning": "Warning",
+  "connected": "Connected",
+  "no_internet_connection": "No internet connection",
+  "return_to_main_menu": "Return to Main Menu",
+  "next" : "Next"
+}

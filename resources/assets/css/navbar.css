@@ -1,0 +1,406 @@
+.overlay.individualcourse-text-container,
+.overlay.training-text-container,
+div#team-dots-container.working-with-us-menu li a,
+.industry-recognition-slider,
+.course-message-bar,
+.dots-container.test-testimonials,
+div#dots-container,
+.carousel-item,
+.scroll-banner .customers-list,
+.card,
+.award-img-one,
+.award-img-two,
+.overlay,
+.customer-saying-container,
+.search-bar,
+.message-bar,
+.top-menu-bar,
+.top-header,
+.overlay.generic-text-container,
+.overlay.course-type-text-container,
+.pagination {
+    justify-content: center;
+}
+
+.overlay.individualcourse-text-container,
+.overlay.training-text-container,
+.consultants-courses-content-left,
+.working-with-us-menu li a,
+.card,
+.overlay,
+.upcoming-testimonial-content,
+.consultants-courses-content-left,
+.overlay.course-type-text-container,
+.overlay.generic-text-container {
+    flex-direction: column;
+}
+
+.pagination .page-item.disabled .page-link,
+.pagination .page-item.active .page-link,
+.pagination .page-link:hover,
+.page-item.current-page .page-link,
+.pagination .page-link {
+    background-color: #ed872b;
+}
+
+.about-us-tab ul#v-pills-tab button,
+.paying-us-tab-ul ul#v-pills-tab button {
+    background: #f6f3e9;
+    border-top: 1px solid #000;
+    border-left: 1px solid #000;
+    /* border-bottom: 1px solid #000; */
+    border-radius: 0px;
+    text-align: start;
+}
+
+.nav-item {
+    position: relative;
+}
+
+.nav-item > button.nav-link {
+    width: 100%;
+}
+
+
+#myTabContent{
+margin-top: 13px;
+}
+
+#our-experience {
+    padding-bottom: 1rem;
+    box-sizing: border-box;
+}
+
+.nav-item.last-li {
+    border-bottom: 1px solid #000;
+}
+
+
+#section-upcoming-courses-list .table-container img,
+.event-all-list .table-container td,
+#section-upcoming-courses-list .table-container td,
+.paying-us-content table td,
+.paying-us-content table table th,
+.event-all-list .table-container th,
+#section-upcoming-courses-list .table-container th {
+    vertical-align: middle;
+}
+
+.paying-us-tab-ul ul#v-pills-tab button:nth-child(1),
+.paying-us-tab-ul ul#v-pills-tab button:nth-child(2),
+.paying-us-tab-ul ul#v-pills-tab button:nth-child(4),
+.paying-us-tab-ul ul#v-pills-tab button:nth-child(5) {
+    border-bottom: none;
+}
+
+h2.contact-title,
+.contact-details h5 strong,
+.contact-details h5,
+.contact-details a {
+    color: #00548e;
+}
+
+.upcoming-courses-sessions-title,
+.block-title.no-subtitle,
+.pmi-pdu-breakdown-title {
+    margin-top: 48px;
+}
+
+.consultant-specialist p,
+.consultant-specialist-areas p,
+.consultant-specialist h4,
+.consultant-specialist-areas h4,
+#aboutus-body,
+.carousel-button.aboutus-carousel-button-left {
+    margin-left: -7px;
+}
+
+.award-img-one img,
+.award-img-two img,
+.testimonial-image,
+.pmi-pdu-breakdown-content p img {
+    mix-blend-mode: multiply;
+}
+
+.generic-content h3 a,
+h5.beginner-course-title,
+h5.intermediate-course-title,
+.training-management-course h2,
+.overlay.individualcourse-text-container,
+.upcoming-courses-content h2 strong,
+h5.advanced-course-title,
+.overlay.generic-text-container.generic-content h3,
+.generic-content h2,
+.overlay.generic-text-container,
+h3,
+button.dexp-btn-reflect,
+.upcoming-courses-content h2,
+.upcoming-courses-content h3,
+.block-title.no-subtitle,
+h2.contact-title,
+.h3 {
+    text-transform: uppercase;
+}
+
+.text-drop-cap,
+.generic-content span.text-dropcap.text-dropcap-2,
+.paying-us-content span.text-dropcap.text-dropcap-2,
+.dot-new.active {
+    background-color: #00548e;
+}
+
+.text-drop-cap,
+.generic-content span.text-dropcap.text-dropcap-2,
+.paying-us-content span.text-dropcap.text-dropcap-2 {
+    font-size: 1.7em;
+    margin: 0 5px;
+    padding: 7px 9.5px;
+    float: left;
+    line-height: 1;
+}
+
+img.training-banner,
+.banner-image,
+.video-height,
+.award-img-one img,
+.award-img-two img,
+img.generic-banner-image,
+.consultant-image,
+.testimonials-images img,
+.course-type-banner-image,
+img.individualcourse-banner-image,
+.testimonials-images img,
+.company-news-img-container img,
+.upcoming-events-img-container img,
+.upcoming-courses-image-section img {
+    object-fit: cover;
+}
+
+.about-management-block,
+section.courses-level-container,
+section#courses-level-container,
+section#section-upcoming-courses-list,
+section#courses-category,
+section.generic-page-section,
+section.contact-us-section,
+section.paying-us-section,
+.event-all-list,
+.row.d-flex.justify-content-end.gap-5.mt-2,
+.upcoming-courses-list,
+.section-graphical-container,
+.upcoming-courses-list-color,
+section#section-bottom-menu,
+.customer-saying,
+#our-consultants-section {
+    background-color: #f6f3e9;
+}
+
+.nav-link,
+.course-message-bar,
+.award-list .each-awards {
+    font-size: 18px;
+}
+
+.dots-container-new,
+.training-landing-content {
+    margin-top: 10px;
+}
+
+.upcoming-courses-course,
+a.register-here,
+h1.text-center.pt-4 {
+    color: #00558b;
+}
+
+img,
+#siteBrand img,
+.social-connect img,
+.online_location_image,
+.img-fluid,
+img.img-fluid.search-icon.search-courses,
+img.img-fluid.search-icon.page-search-courses,
+.event-free-btn .event-btn,
+.card {
+    height: auto;
+}
+
+.img-fluid,
+.industry-recognition,
+img,
+#siteBrand img {
+    max-width: 100%;
+}
+
+#team-video-container>.team-video-wrapper>iframe,
+.dexp_list_02 li::before,
+.overlay {
+    left: 0;
+}
+
+.testimonial-image,
+.industry-slide img,
+.slide img {
+    object-fit: contain;
+}
+
+span.title-part-1,
+span.title-part-2 {
+    color: white;
+}
+
+#team-video-container>.team-video-wrapper>iframe,
+.dropdown-submenu .dropdown-menu,
+.dexp_list_02 li::before,
+.dropdown-menu .dropdown-menu,
+.overlay {
+    top: 0;
+}
+
+.dot-new,
+.testimonial-content .move-down,
+.customer-saying-carousel,
+.text-drop-cap,
+.generic-content span.text-dropcap.text-dropcap-2,
+.paying-us-content span.text-dropcap.text-dropcap-2,
+.carousel-dot,
+.dot,
+.dots-container.test-testimonials .dot,
+.testimonial-content .move-down {
+    display: inline-block;
+}
+
+.sponsorships-content-block,
+.sponsorships-image-block,
+.upcoming-course-link {
+    background-color: #e5f3fc;
+}
+
+.adverstiment {
+    overflow: hidden;
+
+    .marquee {
+        animation: marquee 20s linear infinite;
+        display: inline-block;
+        white-space: nowrap;
+
+        &:hover {
+            animation-play-state: paused;
+        }
+    }
+}
+
+.adverstiment {
+    background-color: rgb(255, 255, 255);
+    backdrop-filter: blur(12px);
+}
+
+.working-with-us-menu li a,
+.text-justify-custom,
+.working-with-us-menu li a,
+.industry-list {
+    text-align: justify;
+}
+
+.video-testimonial,
+#testimonial_carousel,
+.upcoming-courses-content-left,
+.video-banner,
+.logos-slider,
+.video-slider-container-new {
+    overflow: hidden;
+}
+
+a,
+a:hover,
+a:focus,
+a:active {
+    outline: none;
+}
+
+a,
+a:active,
+a:focus {
+    color: #8696a1;
+    transition-timing-function: ease-in-out;
+    -ms-transition-timing-function: ease-in-out;
+    -moz-transition-timing-function: ease-in-out;
+    -webkit-transition-timing-function: ease-in-out;
+    -o-transition-timing-function: ease-in-out;
+    transition-duration: 0.2s;
+    -ms-transition-duration: 0.2s;
+    -moz-transition-duration: 0.2s;
+    -webkit-transition-duration: 0.2s;
+    -o-transition-duration: 0.2s;
+}
+
+.top-header,
+.customer-saying-slider,
+.flexMain,
+.social-connect img,
+.working-with-us-menu li a,
+.industry-recognition-slider,
+.course-message-bar,
+.upcoming-session-course-info,
+.carousel-item,
+.scroll-banner .customers-list,
+.col-3.search-bar-menu-list,
+.card,
+.overlay,
+.search-bar,
+.message-bar {
+    align-items: center;
+}
+
+.text-drop-cap,
+.generic-content span.text-dropcap.text-dropcap-2,
+.paying-us-content span.text-dropcap.text-dropcap-2 {
+    color: #ffffff;
+}
+
+h4.training-category-title,
+h4.training-category-title a,
+.training-landing-title h3,
+h5.beginner-course-title,
+h5.intermediate-course-title,
+h5.advanced-course-title,
+.upcoming-courses-content h2 strong,
+h2.mb-3.individualcourse-title,
+.training-management-course h2,
+h4.exampass-credits-title,
+h4.earn-credits-title,
+.block-title.no-subtitle,
+.event-list h6,
+.generic-content h2,
+.content-menu-title h6,
+h6.upcoming-courses-testimonials-title,
+.bottom-menu-location h6,
+.courses-info-title,
+.bottom-menu-working-with-us h6,
+h2.mb-3.generic-title,
+.upcoming-courses-content h2,
+.upcoming-courses-content h3,
+.generic-content h3 a,
+h3.video-title.mt-5,
+.industry-list h6,
+.upcoming-courses-sessions-title,
+.pmi-pdu-breakdown-title,
+h6.text-center.aboutus-title-color,
+h2.contact-title,
+.upcoming-course-title h6,
+.aboutindustry-list.aboutus-title h6,
+.aboutpartnership-list h6,
+.generic-content h3,
+.team-videotest-info-title,
+p.teamheader-credentials,
+.customer-saying h6,
+.teamheader-title,
+.specialties-title h5,
+.team-page-links-title,
+h4.training-credits-title {
+    letter-spacing: 1.5px;
+}
+
+/* hide the agile courses link in the navbar */
+ul.nestedMenu>li>a[href*="agile-courses"] {
+    display: none !important;
+}

@@ -1,0 +1,52 @@
+1
+00:00:00,000 --> 00:00:06,840
+Les questions ouvertes sont des questions qui servent à obtenir des informations ou à ouvrir la réflexion et la discussion.
+
+2
+00:00:06,840 --> 00:00:10,720
+Elles ne se limitent pas à une réponse par oui, non ou peut-être.
+
+3
+00:00:10,720 --> 00:00:16,520
+Ce ne sont pas des questions rhétoriques ni des questions tests avec des bonnes ou des mauvaises réponses.
+
+4
+00:00:16,520 --> 00:00:20,680
+Les questions ouvertes influencent les autres de deux façons très différentes.
+
+5
+00:00:20,680 --> 00:00:27,400
+Tout d'abord, elles permettent de recueillir des informations qui permettront de rendre les autres comportements d'influence plus efficaces.
+
+6
+00:00:27,400 --> 00:00:32,960
+Par exemple, en identifiant des besoins, des objectifs ou des critères de décision.
+
+7
+00:00:32,960 --> 00:00:41,239
+Ensuite, elles amènent l'autre à réfléchir et à s'exprimer sur des sujets d'intérêt commun auxquels il ou elle n'aurait pas forcément pensé.
+
+8
+00:00:41,239 --> 00:00:46,120
+De cette manière, elles favorisent à la fois la créativité et le partage d'informations
+
+9
+00:00:46,120 --> 00:00:50,519
+et jouent donc un rôle essentiel dans les processus d'innovation en équipe.
+
+10
+00:00:50,519 --> 00:00:52,960
+Voici quelques exemples.
+
+11
+00:00:52,960 --> 00:00:56,519
+Comment pensez-vous que nous devrions aborder ce client ?
+
+12
+00:00:56,560 --> 00:01:00,880
+Quels critères seront importants pour vous dans votre prise de décision ?
+
+13
+00:01:00,880 --> 00:01:04,480
+Qu'est-ce qui vous préoccupe le plus dans cette situation ?
+

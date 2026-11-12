@@ -1,0 +1,79 @@
+1
+00:00:00,000 --> 00:00:03,400
+Utiliza argumentos, objetivos y basados en datos.
+
+2
+00:00:03,400 --> 00:00:07,500
+Su función es dar peso a tu sugerencia o explicar tu necesidad.
+
+3
+00:00:07,500 --> 00:00:11,600
+Ayudan a que los demás entiendan por qué piensas o sientes así.
+
+4
+00:00:11,600 --> 00:00:17,400
+Un buen razonamiento puede convencer a otros a hacer que estén más dispuestos a ayudarte.
+
+5
+00:00:17,400 --> 00:00:21,700
+Un error muy común es dar por hecho que los motivos que te convencen a ti
+
+6
+00:00:21,700 --> 00:00:26,000
+son igual de convincentes para los demás, y no siempre es así.
+
+7
+00:00:26,000 --> 00:00:29,000
+Un argumento puede ser totalmente cierto,
+
+8
+00:00:29,000 --> 00:00:33,800
+pero si la otra persona no lo considera importante, no tendrá fuerza.
+
+9
+00:00:33,800 --> 00:00:37,400
+Para razonar con éxito, te ayudará mucho a escuchar primero.
+
+10
+00:00:37,400 --> 00:00:41,800
+Así descubrirás qué criterios usan la otra persona para decidir
+
+11
+00:00:41,800 --> 00:00:45,100
+o qué tipo de información le resulta más persuasiva.
+
+12
+00:00:45,100 --> 00:00:50,600
+Escucha los siguientes ejemplos y luego busca argumentos que respalden tus propias propuestas.
+
+13
+00:00:52,100 --> 00:00:54,900
+Tengo tres razones para sugerir este enfoque.
+
+14
+00:00:54,900 --> 00:00:57,900
+Primero, es lo que recomienda el fabricante.
+
+15
+00:00:58,000 --> 00:01:01,000
+Segundo, ya ha funcionado antes.
+
+16
+00:01:01,000 --> 00:01:05,000
+Y tercero, tenemos a dos personas que ya saben cómo hacerlo.
+
+17
+00:01:06,500 --> 00:01:09,600
+Te explico por qué necesito más recursos.
+
+18
+00:01:09,600 --> 00:01:13,700
+El cliente nos ha pedido adelantar el proyecto tres meses,
+
+19
+00:01:13,700 --> 00:01:17,700
+ya que hemos aceptado incluir los beneficios formativos.
+
+20
+00:01:18,700 --> 00:01:22,700
+Tiene sentido incluir el catálogo de la escuela de posgrado en nuestra web.

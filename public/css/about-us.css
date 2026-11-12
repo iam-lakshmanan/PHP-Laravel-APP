@@ -1,0 +1,134 @@
+.partnerslogo-slider {
+    margin-top: -5px;
+}
+.aboutindustry-slider,
+.partnerslogo-slider {
+    max-width: 382px;
+    overflow: hidden;
+    align-items: center;
+}
+.aboutindustry-slider{
+    gap: 10px;
+}
+.partnerslogo-slider{
+    gap: 40px;
+}
+.training-management-course h2 {
+    font-size: 22px;
+    font-weight: 600;
+}
+.aboutindustry-slider {
+    margin-top: 9px;
+}
+#aboutus-body {
+    overflow-y: auto;
+}
+.aboutus-title.policies-title {
+    margin-top: 31px;
+}
+.overlay.aboutus-text-container {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    max-width: 958px;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.9);
+    z-index: 5;
+    height: auto;
+    backdrop-filter: blur(-34px);
+    border: 1px solid #645b5b;
+}
+.carousel-button.aboutus-partners-carousel-button-right {
+    margin-left: 423px;
+    margin-top: -12px;
+}
+.carousel-button.aboutus-partners-carousel-button-left {
+    margin-left: -10px;
+    margin-top: -12px;
+}
+.carousel-button.aboutus-carousel-button-right {
+    margin-left: 415px;
+}
+.industry-slide,
+.partners-slide {
+    flex: 0 0 auto;
+}
+/* .partners-slide img {
+    height: 100%;
+    max-height: 86px;
+    padding-top: 10px;
+} */
+.partners-content {
+    margin-left: -41px;
+}
+.sponsorship-block h6 {
+    margin-top: 5px;
+}
+.policies-title h6,
+.policies-col p {
+    color: white;
+}
+h6.text-center.aboutus-title-color {
+    font-size: 18px !important;
+}
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+    .aboutpartnership-text-content,
+    .aboutindustry-text-content {
+        font-weight: 500 !important;
+    }
+    h6.text-center.aboutus-title-color,
+    .aboutindustry-list.aboutus-title h6,
+    .aboutpartnership-list.aboutus-title h6,
+    .aboutus-title.sponsorship-block h6 {
+        font-size: 18px !important;
+        font-weight: 600 !important;
+    }
+    .aboutindustry-list.aboutus-title h6,
+    .aboutpartnership-list.aboutus-title h6,
+    .aboutus-title.sponsorship-block h6,
+    h6.text-center.aboutus-title-color,
+    .aboutindustry-list.aboutus-title h6,
+    .aboutpartnership-list.aboutus-title h6 {
+        letter-spacing: 1.5px;
+    }
+    .aboutindustry-slider {
+        max-width: 282px;
+        margin-top: 13px;
+        gap: 2px;
+    }
+    .carousel-button.aboutus-carousel-button-right {
+        margin-left: 316px !important;
+    }
+    .partnerslogo-slider {
+        max-width: 304px;
+        margin-top: 14px;
+        gap: 2px;
+    }
+    .partners-slide img {
+        width: 86%;
+        height: 100%;
+        max-height: 72px;
+        padding-top: 7px;
+    }
+    .carousel-button.aboutus-partners-carousel-button-left {
+        margin-left: -15px;
+    }
+    .carousel-button.aboutus-partners-carousel-button-right {
+        margin-left: 327px;
+    }
+    .aboutus-title.policies-title h6 {
+        font-size: 19px !important;
+        font-weight: 600;
+    }
+    .policies-col a {
+        font-size: 12px;
+    }
+    #aboutus-body p {
+        font-weight: 500;
+        text-align: left;
+    }
+    .aboutus-readmore-btn.mt-2 {
+        height: 30px !important;
+        width: 120px;
+    }
+}
